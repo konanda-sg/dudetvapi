@@ -1,13 +1,36 @@
 [
   {
+    "api": "02d0040025f5778145f3ec8de05bc5bb:91c56f28ddb9cebc0047c59ecfd791c3",
+    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/efmuviqado/out/v1/77ad525d024d48fcb990085c9a8fef12/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FOX NFL FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://chatgpt.hereisman.net/playlist/57273/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NFL",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57254/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "NFL LIVE (USA)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream7.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/",
+    "link": "https://embedindia.st/embed/nfl/2026-09-27/lac-buf",
+    "logo": "",
     "title": "NFL LIVE [FHD]",
     "type": "2"
   }

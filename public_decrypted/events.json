@@ -664,13 +664,15 @@
       "eventName": "NFL REDZONE",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/pmead",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/27 17:00:00 +0000",
       "endTime": "2026/09/28 00:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "NFL NETWORK FHD",
+      "DUDE Tv NFL REDZONE",
       "NFL REDZONE HD",
       "SERVER 1 HD [USA]",
       "SERVER 2 HD [USA]",
@@ -680,6 +682,14 @@
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "NFL NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL REDZONE",
+        "logo": ""
+      },
       {
         "title": "NFL REDZONE HD",
         "logo": ""
@@ -730,6 +740,7 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
@@ -737,6 +748,10 @@
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -767,10 +782,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -800,10 +820,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -833,10 +858,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -900,6 +930,7 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
@@ -907,6 +938,10 @@
       {
         "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -937,10 +972,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1366,10 +1406,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB HD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1399,10 +1444,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB HD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1432,10 +1482,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1465,10 +1520,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1498,10 +1558,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1531,10 +1596,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1564,10 +1634,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1597,10 +1672,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1630,10 +1710,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1663,10 +1748,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1722,18 +1812,73 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
       "eventName": "Norway vs Portugal",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/27 18:45:00 +0000",
       "endTime": "2026/09/27 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "TVE La 1 (ES)",
+      "ESPN AR FHD",
+      "TVE La 1 HD",
+      "beIN ARABIC FHD",
+      "Sport TV HD",
+      "ARENA SPORTS HD",
+      "Polsat TV HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "TVE La 1 (ES)",
+        "logo": ""
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "TVE La 1 HD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1750,7 +1895,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
       "eventName": "Germany vs Greece",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/27 18:45:00 +0000",
       "endTime": "2026/09/27 20:50:00 +0000"
     },
@@ -1759,7 +1904,12 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "Fox Sports HD",
+      "Polsat TV HD",
+      "Sport TV HD",
+      "Ziggo Sports HD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
@@ -1768,10 +1918,30 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "Fox Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1795,185 +1965,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Serbia vs Netherlands",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Serbia",
-      "teamB": "Netherlands",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6355/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-      "eventName": "Serbia vs Netherlands",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 16:00:00 +0000",
-      "endTime": "2026/09/27 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD",
-      "SporTV BR FHD",
-      "Polsat TV HD",
-      "SportKlub HD",
-      "Arena Sports HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": ""
-      },
-      {
-        "title": "Polsat TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SportKlub HD",
-        "logo": ""
-      },
-      {
-        "title": "Arena Sports HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Denmark vs Wales",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Denmark",
-      "teamB": "Wales",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4702/image",
-      "eventName": "Denmark vs Wales",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 16:00:00 +0000",
-      "endTime": "2026/09/27 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Austria vs Kosovo",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Austria",
-      "teamB": "Kosovo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-      "eventName": "Austria vs Kosovo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 16:00:00 +0000",
-      "endTime": "2026/09/27 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV HD",
-      "Polsat TV HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      },
-      {
-        "title": "Polsat TV HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Gibraltar vs Andorra",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Gibraltar",
-      "teamB": "Andorra",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-      "eventName": "Gibraltar vs Andorra",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 16:00:00 +0000",
-      "endTime": "2026/09/27 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Lithuania vs Azerbaijan",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Lithuania",
-      "teamB": "Azerbaijan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-      "eventName": "Lithuania vs Azerbaijan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 13:00:00 +0000",
-      "endTime": "2026/09/27 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "FOX SPORTS FHD",
-      "SporTV BR FHD",
-      "ESPN AR FHD",
-      "FOX SPORTS HD",
-      "DUDE Tv Live",
-      "HD SERVER",
+      "DAZN SPORTS HD",
+      "HD SERVER ",
       "SonyLiv (Asia)",
-      "SD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1982,35 +1977,15 @@
         "logo": ""
       },
       {
-        "title": "FOX SPORTS FHD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "ESPN AR FHD",
+        "title": "DAZN SPORTS HD",
         "logo": ""
       },
       {
-        "title": "FOX SPORTS HD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
+        "title": "HD SERVER ",
         "logo": ""
       },
       {
         "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -2038,10 +2013,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2071,10 +2061,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2104,10 +2109,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2137,10 +2157,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "NFL LIVE (USA)",
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2170,14 +2205,29 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
       "TSN SPORTS FHD",
+      "DUDE Tv NFL",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -2208,10 +2258,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2241,10 +2306,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2274,10 +2354,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2307,10 +2402,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX NFL FHD",
+      "DUDE Tv NFL",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2368,64 +2478,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "Eibar vs UD Las Palmas",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Eibar",
-      "teamB": "Las Palmas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-      "eventName": "Eibar vs UD Las Palmas",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 16:30:00 +0000",
-      "endTime": "2026/09/27 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Mallorca vs Almería",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Mallorca",
-      "teamB": "Almería",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-      "eventName": "Mallorca vs Almería",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 14:15:00 +0000",
-      "endTime": "2026/09/27 16:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "DUDE Tv Live",
-      "SD SERVER"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -2433,183 +2487,8 @@
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "LOW SERVER",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Bahrain vs UAE",
-    "image": "o",
-    "cat": "Gulf Cup",
-    "eventInfo": {
-      "teamA": "Bahrain",
-      "teamB": "UAE",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-      "eventName": "Bahrain vs UAE",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 18:00:00 +0000",
-      "endTime": "2026/09/27 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50119,
-    "title": "Yemen vs Qatar",
-    "image": "o",
-    "cat": "Gulf Cup",
-    "eventInfo": {
-      "teamA": "Yemen",
-      "teamB": "Qatar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4721/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-      "eventName": "Yemen vs Qatar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 15:55:00 +0000",
-      "endTime": "2026/09/27 17:55:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50121,
-    "title": "Liverpool FC vs Everton",
-    "image": "o",
-    "cat": "Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Liverpool",
-      "teamB": "Everton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/66774/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36704/image",
-      "eventName": "Liverpool FC vs Everton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 13:00:00 +0000",
-      "endTime": "2026/09/27 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Tottenham vs Aston Villa",
-    "image": "o",
-    "cat": "Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Tottenham",
-      "teamB": "Aston Villa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/266375/image",
-      "eventName": "Tottenham FC vs Aston Villa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 13:00:00 +0000",
-      "endTime": "2026/09/27 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Chelsea vs Arsenal",
-    "image": "o",
-    "cat": "Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Chelsea",
-      "teamB": "Arsenal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-      "eventName": "Chelsea FC vs Arsenal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 15:30:00 +0000",
-      "endTime": "2026/09/27 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "CBS NETWORK FHD",
-      "SKY PREMIER FHD",
-      "DUDE Tv Live",
-      "STAN SPORTS HD",
-      "CBS SPORTS SD"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "CBS NETWORK FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY PREMIER FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "STAN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS SD",
-        "logo": "https://iili.io/BtCdabj.png"
       }
     ]
   }

@@ -1,16 +1,14 @@
 [
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/16c533fc-221f-4ab9-90bb-141e1d2f9cd7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.50/hls/zuuuQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "link": "https://embedindia.st/embed/",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
   }
 ]

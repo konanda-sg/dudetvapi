@@ -427,7 +427,12 @@
       "TAPMAD - FHD",
       "TNT SPORTS HD",
       "LOW SERVER",
-      "HOTSTAR HIN - IN"
+      "HOTSTAR HIN - IN",
+      "STAR HINDI - IN",
+      "STAR SPORTS HIN - IN",
+      "STAR SPORTS ENG - IN",
+      "STAR SPORTS TEL - IN",
+      "STAR SPORTS TAM - IN"
     ],
     "formatsNew": [
       {
@@ -456,6 +461,26 @@
       },
       {
         "title": "HOTSTAR HIN - IN",
+        "logo": ""
+      },
+      {
+        "title": "STAR HINDI - IN",
+        "logo": ""
+      },
+      {
+        "title": "STAR SPORTS HIN - IN",
+        "logo": ""
+      },
+      {
+        "title": "STAR SPORTS ENG - IN",
+        "logo": ""
+      },
+      {
+        "title": "STAR SPORTS TEL - IN",
+        "logo": ""
+      },
+      {
+        "title": "STAR SPORTS TAM - IN",
         "logo": ""
       }
     ]
@@ -646,15 +671,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "NFL REDZONE HD",
       "SERVER 1 HD [USA]",
       "SERVER 2 HD [USA]",
       "SERVER 3 HD [USA]",
-      "SERVER 4 HD [USA]",
       "NFL NETWORK HD",
       "REDZONE [FHD]",
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "NFL REDZONE HD",
+        "logo": ""
+      },
       {
         "title": "SERVER 1 HD [USA]",
         "logo": ""
@@ -665,10 +694,6 @@
       },
       {
         "title": "SERVER 3 HD [USA]",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 4 HD [USA]",
         "logo": ""
       },
       {
@@ -704,10 +729,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -869,10 +899,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -935,10 +970,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -968,10 +1008,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1001,10 +1046,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1135,10 +1185,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1169,10 +1224,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SporTV BR FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1235,10 +1295,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1755,7 +1825,10 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "Polsat TV HD",
+      "SportKlub HD",
+      "Arena Sports HD"
     ],
     "formatsNew": [
       {
@@ -1768,6 +1841,18 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SportKlub HD",
+        "logo": ""
+      },
+      {
+        "title": "Arena Sports HD",
         "logo": ""
       }
     ]
@@ -1819,11 +1904,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "Sport TV HD",
+      "Polsat TV HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
         "logo": ""
       }
     ]
@@ -1847,11 +1937,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "Sport TV HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "Sport TV HD",
         "logo": ""
       }
     ]
@@ -1877,7 +1967,14 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "ESPN AR FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1886,10 +1983,38 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2045,10 +2170,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2192,72 +2322,6 @@
     ]
   },
   {
-    "id": 50111,
-    "title": "Hong Kong vs Laos",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Hong Kong",
-      "teamB": "Laos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-      "eventName": "Hong Kong vs Laos",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 07:00:00 +0000",
-      "endTime": "2026/09/27 09:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TAPMAD - FHD",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Cambodia vs Myanmar",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Cambodia",
-      "teamB": "Myanmar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
-      "eventName": "Cambodia vs Myanmar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 10:00:00 +0000",
-      "endTime": "2026/09/27 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50113,
     "title": "Real Oviedo vs Sporting Gijón",
     "image": "o",
@@ -2360,39 +2424,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Real Valladolid vs Córdoba",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Valladolid",
-      "teamB": "Córdoba",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-      "eventName": "Real Valladolid vs Córdoba",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 12:00:00 +0000",
-      "endTime": "2026/09/27 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2454,34 +2495,6 @@
     ]
   },
   {
-    "id": 50120,
-    "title": "Manchester United vs West Ham",
-    "image": "o",
-    "cat": "Womens SL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Man Utd",
-      "teamB": "West Ham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/297802/image",
-      "eventName": "Manchester United vs West Ham",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 12:00:00 +0000",
-      "endTime": "2026/09/27 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50121,
     "title": "Liverpool FC vs Everton",
     "image": "o",
@@ -2500,9 +2513,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2528,9 +2546,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2556,12 +2579,37 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK FHD",
+      "SKY PREMIER FHD",
+      "DUDE Tv Live",
+      "STAN SPORTS HD",
+      "CBS SPORTS SD"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "CBS NETWORK FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY PREMIER FHD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "STAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS SD",
+        "logo": "https://iili.io/BtCdabj.png"
       }
     ]
   }

@@ -1,7 +1,15 @@
 [
   {
+    "api": "38aab2b557309644b70a200262a395e6:2484e0c6e8df1ac46d15c6681a18411b",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/foewcrqbwp/out/v1/008fa8ca60f6464692cec1ece77ab24f/26c45ddf-e89e-428f-9739-a73ba9f86870-cenc.mpd?aws_sessionId=cde11601-7663-474b-910e-0bf764d8da85|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/hd-en-1-4603699.m3u8?txSecret=3c13ee3c2557dc0ecb9b20c3accf16f9&txTime=6AB923A9|Referer=https://player.787200.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   }

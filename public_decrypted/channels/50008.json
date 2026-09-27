@@ -1,8 +1,51 @@
 [
   {
+    "api": "5bf307bf00522a5371f9eabf90af61b0:194319c72a748c904f3a42c4a219a82e",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vsa5orjtfb/out/v1/a26f05b5feeb4e0c99fc63722bff9fab/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW - FHD",
+    "type": "1"
+  },
+  {
+    "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+    "title": "TNT SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "e82afe190e1a2ecc0f3cc2f3e4de056f:fe561b16157b65130a9accb3f8b54e95",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vphstwik8p/out/v1/dde4fbca83c24d2a8d5b98060ffdde6c/cenc.mpd",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW - ALT",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-    "title": "DUDE Tv Live",
+    "link": "https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
+    "logo": "",
+    "title": "TAPMAD - FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://papacito.cfd/m3u/588010/live.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+    "title": "TNT SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.55/hls/bbbbbAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://jcevents.hotstar.com/bpk-tv/082c75fa2fec61647e9192140d488d30/JioHotstar/082c75fa2fec61647e9192140d488d30.m3u8|cookie=hdntl=exp=1790565752~acl=%2f*~id=55dc428906557b031549e4ae4033ec3f~data=hdntl~hmac=381b5f55bf364c778fc4e9bef4d63014bb5a829bb3c3720f84a0f9cd5b002c01&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Hotstar;in.startv.hotstar/",
+    "logo": "",
+    "title": "HOTSTAR HIN - IN",
     "type": "0"
   }
 ]

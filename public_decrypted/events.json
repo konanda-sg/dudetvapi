@@ -402,90 +402,6 @@
     ]
   },
   {
-    "id": 50008,
-    "title": "India vs West Indies",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "IND",
-      "teamB": "WI",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-      "eventName": "India vs West Indies",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 08:30:00 +0000",
-      "endTime": "2026/09/27 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "TNT SPORTS FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "TNT SPORTS HD",
-      "LOW SERVER",
-      "HOTSTAR HIN - IN",
-      "STAR HINDI - IN",
-      "STAR SPORTS HIN - IN",
-      "STAR SPORTS ENG - IN",
-      "STAR SPORTS TEL - IN",
-      "STAR SPORTS TAM - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HOTSTAR HIN - IN",
-        "logo": ""
-      },
-      {
-        "title": "STAR HINDI - IN",
-        "logo": ""
-      },
-      {
-        "title": "STAR SPORTS HIN - IN",
-        "logo": ""
-      },
-      {
-        "title": "STAR SPORTS ENG - IN",
-        "logo": ""
-      },
-      {
-        "title": "STAR SPORTS TEL - IN",
-        "logo": ""
-      },
-      {
-        "title": "STAR SPORTS TAM - IN",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -896,10 +812,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1106,107 +1032,6 @@
     ]
   },
   {
-    "id": 50060,
-    "title": "England vs Sri Lanka",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ENG",
-      "teamB": "SL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-      "eventName": "England vs Sri Lanka",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 09:30:00 +0000",
-      "endTime": "2026/09/27 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "SKY CRICKET - FHD",
-      "WILLOW - ALT",
-      "SonyLiv",
-      "SKY CRICKET HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET - FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv",
-        "logo": ""
-      },
-      {
-        "title": "SKY CRICKET HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50062,
-    "title": "South Africa vs Australia",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "SA",
-      "teamB": "AUS",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-      "eventName": "South Africa vs Australia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 08:00:00 +0000",
-      "endTime": "2026/09/27 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "FANCODE FHD",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50065,
     "title": "Minnesota Vikings",
     "image": "o",
@@ -1226,6 +1051,8 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
@@ -1233,6 +1060,14 @@
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -1265,6 +1100,8 @@
     "publish": "1",
     "formats": [
       "SporTV BR FHD",
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
@@ -1272,6 +1109,14 @@
       {
         "title": "SporTV BR FHD",
         "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -1302,10 +1147,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL HD",
+      "NFL LIVE (USA)",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE (USA)",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1801,89 +1656,6 @@
     ]
   },
   {
-    "id": 50094,
-    "title": "Norway vs Portugal",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Norway",
-      "teamB": "Portugal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
-      "eventName": "Norway vs Portugal",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/09/27 18:45:00 +0000",
-      "endTime": "2026/09/27 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "TVE La 1 (ES)",
-      "ESPN AR FHD",
-      "TVE La 1 HD",
-      "beIN ARABIC FHD",
-      "Sport TV HD",
-      "ARENA SPORTS HD",
-      "Polsat TV HD",
-      "HD SERVER",
-      "SonyLiv (Asia)",
-      "SD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "TVE La 1 (ES)",
-        "logo": ""
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "TVE La 1 HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC FHD",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      },
-      {
-        "title": "ARENA SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "Polsat TV HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50095,
     "title": "Germany vs Greece",
     "image": "o",
@@ -1895,7 +1667,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4710/image",
       "eventName": "Germany vs Greece",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/09/27 18:45:00 +0000",
       "endTime": "2026/09/27 20:50:00 +0000"
     },
@@ -2455,39 +2227,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Burgos vs CD Eldense",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Burgos",
-      "teamB": "Eldense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-      "eventName": "Burgos vs CD Eldense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/27 16:30:00 +0000",
-      "endTime": "2026/09/27 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]

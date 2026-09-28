@@ -1,23 +1,8 @@
 [
   {
     "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com",
-    "logo": "",
-    "title": "TAPMAD - FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001790480680-0-0-864c8452a2feb8dac0b83911d1904eaf",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/bbbbb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "title": "DUDE Tv Live",
     "type": "0"
   }
 ]

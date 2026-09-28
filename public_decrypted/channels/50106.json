@@ -1,44 +1,8 @@
 [
   {
-    "api": "db30d1fa3c3f5f2096a7ac0c8859dabf:9af373bec5405c72c11dda2950d52a68",
-    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/6bbkcvciwk/out/v1/cf0a2df0948a4e9ca4c26010da2c1986/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FOX NFL FHD",
-    "type": "1"
-  },
-  {
-    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-    "title": "TSN SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57274/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DUDE Tv NFL",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57265/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "NFL LIVE (USA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
     "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://embedindia.st/embed/nfl/2026-09-27/ne-jax",
-    "logo": "",
-    "title": "NFL LIVE [FHD]",
-    "type": "2"
   }
 ]

@@ -1,37 +1,23 @@
 [
   {
-    "api": "02d0040025f5778145f3ec8de05bc5bb:91c56f28ddb9cebc0047c59ecfd791c3",
-    "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/efmuviqado/out/v1/77ad525d024d48fcb990085c9a8fef12/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "FOX NFL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57273/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DUDE Tv NFL",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57254/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "NFL LIVE (USA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream7.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://live.vivo155.com/live/sd-1-4642793.m3u8?txSecret=97a351a496833632284645e9ce9b8045&txTime=6ABACC69|Referer=https://player.787200.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/nfl/2026-09-27/lac-buf",
+    "link": "https://www.rtmpcdn.com/live/5465f3e2-5af7-4fc4-ab1e-84964c2ace61.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
     "logo": "",
-    "title": "NFL LIVE [FHD]",
-    "type": "2"
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/DIIIAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

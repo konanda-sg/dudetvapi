@@ -652,72 +652,6 @@
     ]
   },
   {
-    "id": 50052,
-    "title": "Boston Red Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Yankees",
-      "teamB": "Red Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-      "eventName": "New York Yankees vs Boston Red Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/29 09:00:00 +0000",
-      "endTime": "2026/09/29 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50053,
-    "title": "San Diego Padres",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Padres",
-      "teamB": "Cubs",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-      "eventName": "San Diego Padres vs Chicago Cubs",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/29 09:00:00 +0000",
-      "endTime": "2026/09/29 12:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50062,
     "title": "South Africa vs Australia",
     "image": "o",
@@ -766,6 +700,54 @@
     ]
   },
   {
+    "id": 50069,
+    "title": "Los Angeles Rams",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Bears",
+      "teamB": "Eagles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+      "eventName": "Chicago Bears vs Philadelphia Eagles",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/29 00:15:00 +0000",
+      "endTime": "2026/09/29 03:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
+      "TSN5 SPORTS FHD",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50070,
     "title": "IFA Shield 2026",
     "image": "o",
@@ -790,6 +772,76 @@
       {
         "title": "FANCODE (IND)",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      }
+    ]
+  },
+  {
+    "id": 50071,
+    "title": "Morocco",
+    "image": "o",
+    "cat": "Darts",
+    "eventInfo": {
+      "teamA": "DARTS",
+      "teamB": "DARTS",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+      "eventName": "World Grand Prix",
+      "eventType": "null",
+      "startTime": "2026/09/28 17:00:00 +0000",
+      "endTime": "2026/09/28 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DARTS LIVE [FHD]",
+      "SKY MAIN EVENT",
+      "SKY SPORTS+ HD",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DARTS LIVE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS+ HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50085,
+    "title": "Bangladesh vs Malaysia",
+    "image": "o",
+    "cat": "Asian Games",
+    "eventInfo": {
+      "teamA": "BAN",
+      "teamB": "MAS",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187811/image",
+      "eventName": "Bangladesh vs Malaysia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/29 04:30:00 +0000",
+      "endTime": "2026/09/29 08:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       }
     ]
   },
@@ -848,7 +900,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
       "eventName": "Belgium vs France",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/28 18:45:00 +0000",
       "endTime": "2026/09/28 20:50:00 +0000"
     },
@@ -856,7 +908,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Polsat TV HD",
+      "Sport TV HD",
+      "Ziggo Sport HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -865,6 +926,42 @@
       },
       {
         "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sport HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -881,7 +978,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
       "eventName": "Türkiye vs Italy",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/28 18:45:00 +0000",
       "endTime": "2026/09/28 20:50:00 +0000"
     },
@@ -889,7 +986,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "Polsat TV HD",
+      "Ziggo Sport HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -898,6 +1004,42 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sport HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -921,16 +1063,66 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FUBO NETWORK USA",
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "Polsat TV HD",
+      "Sport TV HD",
+      "Arena Sports HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "FUBO NETWORK USA",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Arena Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -954,11 +1146,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "TVP SPORTS HD",
+      "Sport TV HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "TVP SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -982,11 +1209,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "Polsat TV HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1151,6 +1413,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FUBO NETWORK USA",
       "beIN ENGLISH FHD",
       "SporTV BR FHD",
       "FOX SPORTS HD",
@@ -1165,6 +1428,10 @@
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "FUBO NETWORK USA",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
@@ -1234,11 +1501,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]

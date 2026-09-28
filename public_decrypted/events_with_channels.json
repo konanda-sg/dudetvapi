@@ -1846,7 +1846,16 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "SPORT 1 CZ FHD"
+      "SPORT 1 CZ FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "Sport Klub HD",
+      "Arena Sports HD",
+      "HD SERVER",
+      "SonyLiv",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1855,10 +1864,46 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport Klub HD",
+        "logo": ""
+      },
+      {
+        "title": "Arena Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -1866,20 +1911,86 @@
       {
         "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
       },
       {
         "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
         "title": "FOX SPORTS FHD",
         "type": "1"
       },
       {
         "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "logo": "",
         "title": "SPORT 1 CZ FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/57337/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/hd-en-1-4517966.m3u8?txSecret=d4479c74d0f3f36ac5437c2084c304e0&txTime=6ABA9E6C|Referer=https://player.787200.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/82c8a098df38938821bd8a45cd1a0221/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Sport TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/6d1f35b7e2f7deffbc52b29ae8f97072/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Sport Klub HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/d0232a6f80df6d46a69df5eb77dc3bb3/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Arena Sports HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/unl_arme2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493",
+        "logo": "",
+        "title": "SonyLiv",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/c477a054-52a2-4d83-ac16-5ea8f3fd48cf.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/H666QQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1903,19 +2014,92 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "HD QUALITY",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://chatgpt.hereisman.net/playlist/57336/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/hd-en-1-4517967.m3u8?txSecret=a034140f5c77e6c6752b28b878f410a3&txTime=6ABA9E90|Referer=https://player.787200.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/63cd39a2496c2398816747218621c310/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Sport TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "HD QUALITY",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/unl_latv2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493",
+        "logo": "",
+        "title": "SonyLiv (Asia)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/f4776a69-82e8-4266-b0d2-48b5befae576.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/H666QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -1941,7 +2125,17 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "Polsat TV HD",
+      "Ziggo Sport HD",
+      "Arena Sports HD",
+      "HD SERVER",
+      "SonyLiv",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1950,6 +2144,46 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sport HD",
+        "logo": ""
+      },
+      {
+        "title": "Arena Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -1957,14 +2191,86 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
       },
       {
         "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
         "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://iili.io/CFFRvqJ.png",
         "title": "SporTV BR FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/57335/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo155.com/live/hd-en-1-4517962.m3u8?txSecret=f9b1b3bafc5638d33e95ab15531178df&txTime=6ABA9E40|Referer=https://player.787200.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/631645bfcc0893c044af4b74dcd37ca6/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Sport TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/41004d6d8d1f1df9aa7e870ff2e20365/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Polsat TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/c5b6ca18cb70249afc029ff02ddc5d79/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Ziggo Sport HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://netanjahu.hls.st/t/e41ff856d172799acd8561ae3519cc15/index.m3u8?|Referer=https://iplayer.is/",
+        "logo": "",
+        "title": "Arena Sports HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/unl_geor2809/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddb24be2ae6c79379171367bd3925c99-1790609100493",
+        "logo": "",
+        "title": "SonyLiv",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/517911fe-b46d-424e-9a42-c0ef362a3649.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/H666QQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2054,19 +2360,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4642698.m3u8?txSecret=89adee283fcec6c903d87a8b6493477a&txTime=6ABA9ED5|Referer=https://player.787200.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/e0f4d21e-7718-436d-a627-b4a00f234e81.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "HD SERVER ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/H666.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -2091,19 +2422,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo155.com/live/sd-1-4642697.m3u8?txSecret=7846a1542fef68cb7ad3eea1ceeafbdb&txTime=6ABA9EFD|Referer=https://player.787200.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://www.rtmpcdn.com/live/4abc7e13-7648-4273-a18c-6afde99ede50.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "HD SERVER ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/H666Q.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -2128,52 +2484,48 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "4c6f23b8e4d7e5ed7341453556acf1ed:1db14fd2b94f341089a0b1487ae9950d",
-        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wzxywmyitl/out/v1/a527ca4593cb42a4addee49a27fe550c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX NFL FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57259/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "NFL LIVE (USA)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57272/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream4.pro/hls/qsdnajbq32.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://live.vivo155.com/live/sd-1-4642699.m3u8?txSecret=9bbcbc419229754a3c74fdefd9f5db11&txTime=6ABA9F55|Referer=https://player.787200.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-09-27/hou-ind",
+        "link": "https://www.rtmpcdn.com/live/8162559c-7b2c-4f12-af04-93655690c205.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "NFL LIVE [FHD]",
-        "type": "2"
+        "title": "HD SERVER ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/H666QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50106,
@@ -2190,249 +2542,6 @@
       "isHot": "0",
       "startTime": "2026/09/28 18:30:00 +0000",
       "endTime": "2026/09/28 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50107,
-    "title": "Tajikistan vs Palestine",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Tajikistan",
-      "teamB": "Palestine",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23488/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4788/image",
-      "eventName": "Tajikistan vs Palestine",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 12:00:00 +0000",
-      "endTime": "2026/09/28 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "31b5926ac9e20d55f6a1405f69539c3a:866bc2fc0c5a8661b395e762a1bb60d4",
-        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mwg4zqr79u/out/v1/d9102187b61d4f6f9b9f2564c5407575/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX NFL FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57271/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57257/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "NFL LIVE (USA)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream4.pro/hls/oipozuezeji33.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-09-27/kc-mia",
-        "logo": "",
-        "title": "NFL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50108,
-    "title": "South Korea vs Uruguay",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "South Korea",
-      "teamB": "Uruguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-      "eventName": "South Korea vs Uruguay",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 11:00:00 +0000",
-      "endTime": "2026/09/28 13:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50109,
-    "title": "Japan vs Venezuela",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Japan",
-      "teamB": "Venezuela",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-      "eventName": "Japan vs Venezuela",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 10:25:00 +0000",
-      "endTime": "2026/09/28 12:25:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50110,
-    "title": "Malaysia vs Indonesia",
-    "image": "o",
-    "cat": "FIBA Asia Cup",
-    "eventInfo": {
-      "teamA": "Malaysia",
-      "teamB": "Indonesia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-      "eventName": "Malaysia vs Indonesia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 12:30:00 +0000",
-      "endTime": "2026/09/28 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "244aad2efae57691972e870af25c4bdc:a49bc06d3158aa2d27c9415cfe34417c",
-        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gmcxyzmayk/out/v1/e5ed6a6ede3848d58a76589238c58504/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX NFL FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57276/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57253/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "NFL LIVE (USA)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/jkhazabcka36.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-09-27/sea-wsh",
-        "logo": "",
-        "title": "NFL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50111,
-    "title": "Singapore vs Bangladesh",
-    "image": "o",
-    "cat": "FIBA Asia Cup",
-    "eventInfo": {
-      "teamA": "Singapore",
-      "teamB": "Bangladesh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-      "eventName": "Singapore vs Bangladesh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 09:00:00 +0000",
-      "endTime": "2026/09/28 11:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

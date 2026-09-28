@@ -1012,7 +1012,16 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "SPORT 1 CZ FHD"
+      "SPORT 1 CZ FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "Sport Klub HD",
+      "Arena Sports HD",
+      "HD SERVER",
+      "SonyLiv",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1021,10 +1030,46 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "SPORT 1 CZ FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport Klub HD",
+        "logo": ""
+      },
+      {
+        "title": "Arena Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1048,11 +1093,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "HD QUALITY",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1077,7 +1152,17 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "Polsat TV HD",
+      "Ziggo Sport HD",
+      "Arena Sports HD",
+      "HD SERVER",
+      "SonyLiv",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1086,6 +1171,46 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sport HD",
+        "logo": ""
+      },
+      {
+        "title": "Arena Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1137,11 +1262,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1165,11 +1300,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1193,11 +1338,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1217,146 +1372,6 @@
       "isHot": "0",
       "startTime": "2026/09/28 18:30:00 +0000",
       "endTime": "2026/09/28 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Tajikistan vs Palestine",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Tajikistan",
-      "teamB": "Palestine",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23488/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4788/image",
-      "eventName": "Tajikistan vs Palestine",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 12:00:00 +0000",
-      "endTime": "2026/09/28 14:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "South Korea vs Uruguay",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "South Korea",
-      "teamB": "Uruguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-      "eventName": "South Korea vs Uruguay",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 11:00:00 +0000",
-      "endTime": "2026/09/28 13:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Japan vs Venezuela",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Japan",
-      "teamB": "Venezuela",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-      "eventName": "Japan vs Venezuela",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 10:25:00 +0000",
-      "endTime": "2026/09/28 12:25:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Malaysia vs Indonesia",
-    "image": "o",
-    "cat": "FIBA Asia Cup",
-    "eventInfo": {
-      "teamA": "Malaysia",
-      "teamB": "Indonesia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-      "eventName": "Malaysia vs Indonesia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 12:30:00 +0000",
-      "endTime": "2026/09/28 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Singapore vs Bangladesh",
-    "image": "o",
-    "cat": "FIBA Asia Cup",
-    "eventInfo": {
-      "teamA": "Singapore",
-      "teamB": "Bangladesh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-      "eventName": "Singapore vs Bangladesh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/28 09:00:00 +0000",
-      "endTime": "2026/09/28 11:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

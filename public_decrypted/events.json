@@ -898,54 +898,6 @@
     ]
   },
   {
-    "id": 50069,
-    "title": "Los Angeles Rams",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Bears",
-      "teamB": "Eagles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-      "eventName": "Chicago Bears vs Philadelphia Eagles",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/29 00:15:00 +0000",
-      "endTime": "2026/09/29 03:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN4 SPORTS FHD",
-      "TSN5 SPORTS FHD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN4 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN5 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50071,
     "title": "Morocco",
     "image": "o",
@@ -1139,34 +1091,6 @@
       },
       {
         "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50085,
-    "title": "Bangladesh vs Malaysia",
-    "image": "o",
-    "cat": "Asian Games",
-    "eventInfo": {
-      "teamA": "BAN",
-      "teamB": "MAS",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187811/image",
-      "eventName": "Bangladesh vs Malaysia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/29 04:30:00 +0000",
-      "endTime": "2026/09/29 08:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]

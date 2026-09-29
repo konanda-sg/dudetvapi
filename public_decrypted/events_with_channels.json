@@ -1722,87 +1722,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50069,
-    "title": "Los Angeles Rams",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Bears",
-      "teamB": "Eagles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-      "eventName": "Chicago Bears vs Philadelphia Eagles",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/29 00:15:00 +0000",
-      "endTime": "2026/09/29 03:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN4 SPORTS FHD",
-      "TSN5 SPORTS FHD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN4 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN5 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "TSN4 SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "TSN5 SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-09-28/phi-chi",
-        "title": "NFL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50071,
     "title": "Morocco",
     "image": "o",
@@ -2109,44 +2028,6 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50085,
-    "title": "Bangladesh vs Malaysia",
-    "image": "o",
-    "cat": "Asian Games",
-    "eventInfo": {
-      "teamA": "BAN",
-      "teamB": "MAS",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187811/image",
-      "eventName": "Bangladesh vs Malaysia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/29 04:30:00 +0000",
-      "endTime": "2026/09/29 08:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "fc19251f2f2d18ba39485a6eeeaf2128:15c5b05be425a19e8c532311e6ae05ab",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbt5mi7u/out/v1/2bf071397abe422b8640c38a38a47b40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "cached"
   },
   {
     "id": 50093,

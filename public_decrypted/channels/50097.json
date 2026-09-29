@@ -2,13 +2,36 @@
   {
     "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "FOX SPORTS FHD",
     "type": "1"
   },
   {
     "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
     "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "SporTV BR FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4517970.m3u8?txSecret=d771990859450d9ab9727b9dae13b224&txTime=6ABC1A21|Referer=https://player.online909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/09c0e025aa154d2b2f467478892d5e76/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "Polsat TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/1fc889094cc9cc7f166afdc9739deb05/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "ARENA SPORTS HD",
+    "type": "0"
   }
 ]

@@ -2,7 +2,71 @@
   {
     "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "beIN ENGLISH FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57354/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "ITV SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4517969.m3u8?txSecret=72d3e099d589a17153eda05b3477ee0f&txTime=6ABC19D9|Referer=https://player.online909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/4a39d9003ca5f939f82cc1b3d93ffd5d/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "Ziggo Sports HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/5f0fcb5615bfb6d7c0523bad03b03b71/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "ARENA SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/e74af4200c5a79b497cd862861cc42d7/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "Sport TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/Footlive2909/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b71605c9a39cbe0391b6ddbd117d27-1790705700869",
+    "logo": "",
+    "title": "SonyLiv (Asia)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/4c318639-2cca-4e5c-84c4-11126903044f.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/BYDDQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

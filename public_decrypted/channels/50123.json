@@ -1,44 +1,9 @@
 [
   {
-    "api": "4a142dace7422d20e749223453d08cc3:9827022c016a005f02aa85b78660f799",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tt9fet66i0/out/v1/89399796d466400fa38a6324d59751f8/ff2fc2c5-4858-42b4-b928-d0b0e369e452-cenc.mpd?aws_sessionId=33b69982-a73b-4dc2-9070-84ded1986ccf|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
-    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "CBS NETWORK FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=79KyB0_dXmV3S96Piib-8Q&e=2090523114&scheme=https|user-agent=Mozilla",
-    "logo": "",
-    "title": "SKY PREMIER FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4603700.m3u8?txSecret=03f1e1c76f77756dcc5a3d82cfc72489&txTime=6AB94AC4|Referer=https://player.787200.com/",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "logo": "",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://netanjahu.hls.st/t/16e24845785bbd1b349c4dbd0856eb73/index.m3u8?|Referer=https://iplayer.is/",
-    "logo": "",
-    "title": "STAN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/K999A.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "https://iili.io/BtCdabj.png",
-    "title": "CBS SPORTS SD",
     "type": "0"
   }
 ]

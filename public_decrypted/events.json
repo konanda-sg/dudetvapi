@@ -703,10 +703,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
+      "NBC SPORTS FHD",
+      "DUDE Tv MLB HD",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv MLB HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -736,10 +751,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -769,10 +789,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
+      "NBC SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "NBC SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -802,10 +832,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -835,10 +870,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
+      "TSN4 SPORTS FHD",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -949,10 +994,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -982,10 +1032,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1048,10 +1103,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1135,7 +1195,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
       "eventName": "Spain vs Croatia",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/09/29 18:45:00 +0000",
       "endTime": "2026/09/29 20:50:00 +0000"
     },
@@ -1145,7 +1205,17 @@
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
       "TVE La 1 FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "Polsat TV HD",
+      "Sport TV HD",
+      "Ziggo Sports HD",
+      "ARENA SPORTS HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1154,7 +1224,7 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "TVE La 1 FHD",
@@ -1162,6 +1232,46 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1185,11 +1295,56 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "ITV SPORTS HD",
+      "DUDE Tv Live",
+      "Ziggo Sports HD",
+      "ARENA SPORTS HD",
+      "Sport TV HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITV SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Ziggo Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1214,7 +1369,16 @@
     "publish": "1",
     "formats": [
       "FUBO NETWORK USA",
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "BBC SPORTS HD",
+      "DUDE Tv Live",
+      "Polsat Sports HD",
+      "Sport TV HD",
+      "ARENA SPORTS HD",
+      "HD SERVER",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1223,6 +1387,42 @@
       },
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "BBC SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Polsat Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1247,7 +1447,10 @@
     "publish": "1",
     "formats": [
       "FOX SPORTS FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DUDE Tv Live",
+      "Polsat TV HD",
+      "ARENA SPORTS HD"
     ],
     "formatsNew": [
       {
@@ -1256,6 +1459,18 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Polsat TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
         "logo": ""
       }
     ]
@@ -1279,11 +1494,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1307,11 +1547,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1335,11 +1595,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1363,11 +1643,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "TVP SPORTS SD",
+      "SonyLiv (Asia)",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "TVP SPORTS SD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1522,11 +1827,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1550,11 +1865,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1578,11 +1903,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1606,11 +1936,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1634,11 +1974,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1873,6 +2218,135 @@
       "isHot": "0",
       "startTime": "2026/09/29 16:30:00 +0000",
       "endTime": "2026/09/29 18:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50121,
+    "title": "Saudi Arabia vs Iraq",
+    "image": "o",
+    "cat": "Gulf Cup",
+    "eventInfo": {
+      "teamA": "Saudi Arabia",
+      "teamB": "Iraq",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4767/image",
+      "eventName": "Saudi Arabia vs Iraq",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/29 17:30:00 +0000",
+      "endTime": "2026/09/29 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball",
+      "AD SPORTS - FHD",
+      "BAHRAIN SPORTS HD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "AD SPORTS - FHD",
+        "logo": ""
+      },
+      {
+        "title": "BAHRAIN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50122,
+    "title": "Oman vs Kuwait",
+    "image": "o",
+    "cat": "Gulf Cup",
+    "eventInfo": {
+      "teamA": "Oman",
+      "teamB": "Kuwait",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4787/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5368/image",
+      "eventName": "Oman vs Kuwait",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/29 17:30:00 +0000",
+      "endTime": "2026/09/29 19:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "OMAN SPORTS HD",
+      "KTV SPORT KUWAIT",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "OMAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "KTV SPORT KUWAIT",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50123,
+    "title": "USA vs Chile",
+    "image": "o",
+    "cat": "FIFA Friendlies",
+    "eventInfo": {
+      "teamA": "USA",
+      "teamB": "Chile",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+      "eventName": "USA vs Chile",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/30 00:00:00 +0000",
+      "endTime": "2026/09/30 02:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

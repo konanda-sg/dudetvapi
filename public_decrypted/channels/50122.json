@@ -1,16 +1,37 @@
 [
   {
-    "api": "38aab2b557309644b70a200262a395e6:2484e0c6e8df1ac46d15c6681a18411b",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/foewcrqbwp/out/v1/008fa8ca60f6464692cec1ece77ab24f/26c45ddf-e89e-428f-9739-a73ba9f86870-cenc.mpd?aws_sessionId=cde11601-7663-474b-910e-0bf764d8da85|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
+    "api": "",
+    "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+    "logo": "",
+    "title": "OMAN SPORTS HD",
+    "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4603699.m3u8?txSecret=3c13ee3c2557dc0ecb9b20c3accf16f9&txTime=6AB923A9|Referer=https://player.787200.com/",
+    "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "logo": "",
+    "title": "KTV SPORT KUWAIT",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/sd-1-4623514.m3u8?txSecret=f86d74d0b99e2b2875ded579cb89abd3&txTime=6ABC05B7|Referer=https://player.online909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/d3fcc04d-bd4f-47b3-bffe-cd39b3cde383.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.55/hls/UDDDAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

@@ -1,16 +1,44 @@
 [
   {
-    "api": "ac9c67d88461a0a5f0403bc7f9b2ee8b:1fdc40cf3917c7e33bab78f25687d1df",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ta5nzhvnso/out/v1/aab522b8328e4897a100b5475d0bddf3/dfd4f58e-77e2-49a1-8a91-0b50910e16ce-cenc.mpd?aws_sessionId=64774c27-890d-4eb8-96b7-4e3e9b9b72f1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
+    "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+    "logo": "",
+    "title": "SportDigital Fussball",
+    "type": "1"
+  },
+  {
+    "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
+    "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+    "logo": "",
+    "title": "AD SPORTS - FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4603698.m3u8?txSecret=92f686664aafcf640a84aae3ac8b19a7&txTime=6AB923C2|Referer=https://player.787200.com/",
+    "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+    "logo": "",
+    "title": "BAHRAIN SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/sd-1-4623511.m3u8?txSecret=410f080e17f93f6bf794a537733f1b04&txTime=6ABC0600|Referer=https://player.online909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER ",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.55/hls/UDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

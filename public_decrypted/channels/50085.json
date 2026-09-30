@@ -1,9 +1,30 @@
 [
   {
-    "api": "fc19251f2f2d18ba39485a6eeeaf2128:15c5b05be425a19e8c532311e6ae05ab",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ahjbt5mi7u/out/v1/2bf071397abe422b8640c38a38a47b40/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57367/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "WILLOW - FHD",
-    "type": "1"
+    "title": "truTV USA HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4650057.m3u8?txSecret=59b608a8ebe5e161a4b8ae3994853596&txTime=6ABC6318|Referer=https://player.online909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://www.rtmpcdn.com/live/5e5e353b-74d3-46d0-ba93-5e32f7fdfec5.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/YYYYZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
+    "type": "0"
   }
 ]

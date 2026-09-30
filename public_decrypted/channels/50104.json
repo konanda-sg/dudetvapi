@@ -1,23 +1,30 @@
 [
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4642717.m3u8?txSecret=ec6dd81389003b068fd6ee858301b1eb&txTime=6ABC1E0C|Referer=https://player.online909.com/",
+    "link": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd",
+    "logo": "",
+    "title": "SPX LIVE FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4639762.m3u8?txSecret=f58a6a4194050b3b53c4ffc7a87a214a&txTime=6ABCE3AB|Referer=https://player.online909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://www.rtmpcdn.com/live/962ed314-8003-466c-9f75-2594b10f914e.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://live2.zundrixmediapipeline.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
     "logo": "",
-    "title": "HD SERVER ",
+    "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/BYDDQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://live.vivo155.com/live/sd-1-4639762.m3u8?txSecret=b0299d9b240df803cdfa3c906cc15224&txTime=6ABCE3AB|Referer=https://player.online909.com/",
     "logo": "",
-    "title": "LOW SERVER",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]

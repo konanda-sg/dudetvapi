@@ -1103,6 +1103,39 @@
     ]
   },
   {
+    "id": 50093,
+    "title": "Argentina vs Bolivia",
+    "image": "o",
+    "cat": "FIFA Friendlies",
+    "eventInfo": {
+      "teamA": "Argentina",
+      "teamB": "Bolivia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image",
+      "eventName": "Argentina vs Bolivia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/01 00:00:00 +0000",
+      "endTime": "2026/10/01 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SporTV BR FHD",
+      "TyC Sports HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "TyC Sports HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50094,
     "title": "Lyonnes vs Chelsea FC",
     "image": "o",
@@ -1121,11 +1154,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "ESPN AR FHD",
+      "ESPN AR2 FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN AR2 FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1149,11 +1197,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "PARAMOUNT+ HD",
+      "CBS NETWORK HD"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
         "logo": ""
       }
     ]
@@ -1360,44 +1418,6 @@
       },
       {
         "title": "OMAN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Eritrea vs South Africa",
-    "image": "o",
-    "cat": "AFCON",
-    "eventInfo": {
-      "teamA": "Eritrea",
-      "teamB": "South Africa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-      "eventName": "Eritrea vs South Africa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 16:00:00 +0000",
-      "endTime": "2026/09/30 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "HD SERVER ",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
         "logo": ""
       },
       {

@@ -1,8 +1,30 @@
 [
   {
+    "api": "e673dbf9aafc4571148abbf9c2fbbb59:3476af1c662494e924b6b94c40f72401",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/rak0oit2jt/out/v1/0382b72ab46042be88d96ad22abbfa42/87769e1f-7704-44ae-b79e-c91f2fd37911-cenc.mpd?aws_sessionId=2e660177-823f-4e80-86c4-1c6e5609d046|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://live.vivo155.com/live/hd-en-1-4646516.m3u8?txSecret=a5adb1eda33a1333aa6cf3c31cb95aac&txTime=6ABD5285|Referer=https://player.online909.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/cf28b9643b79e2e66b00a0251f22c36e/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "CBS SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/RTTTAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

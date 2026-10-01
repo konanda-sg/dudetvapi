@@ -885,6 +885,44 @@
     ]
   },
   {
+    "id": 50061,
+    "title": "Pakistan vs Bangladesh",
+    "image": "o",
+    "cat": "Asian Games",
+    "eventInfo": {
+      "teamA": "Pakistan",
+      "teamB": "Bangladesh",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+      "eventName": "Pakistan vs Bangladesh",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/01 01:00:00 +0000",
+      "endTime": "2026/10/01 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "SonyLiv (Asia)"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50062,
     "title": "South Africa vs Australia",
     "image": "o",
@@ -1050,10 +1088,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1084,12 +1127,17 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NHL HD",
         "logo": ""
       },
       {
@@ -1121,303 +1169,47 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
+      "ViX ESPANOL FHD",
       "SporTV BR FHD",
-      "TyC Sports HD"
+      "TyC Sports HD",
+      "SD SERVER",
+      "SporTV BR HD",
+      "HD SERVER",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
         "title": "SporTV BR FHD",
-        "logo": ""
+        "logo": "https://iili.io/CFFRvqJ.png"
       },
       {
         "title": "TyC Sports HD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50094,
-    "title": "Lyonnes vs Chelsea FC",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Lyonnes",
-      "teamB": "Chelsea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/26245/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-      "eventName": "OL Lyonnes vs Chelsea FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 19:00:00 +0000",
-      "endTime": "2026/09/30 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "ESPN AR FHD",
-      "ESPN AR2 FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "CBS NETWORK",
+        "title": "SD SERVER",
         "logo": ""
       },
       {
-        "title": "ESPN AR FHD",
+        "title": "SporTV BR HD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "ESPN AR2 FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50095,
-    "title": "Benfica vs Bayern",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Benfica",
-      "teamB": "Bayern",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/297853/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-      "eventName": "Benfica vs Bayern München",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 19:00:00 +0000",
-      "endTime": "2026/09/30 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "PARAMOUNT+ HD",
-      "CBS NETWORK HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Roma vs Barcelona",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Roma",
-      "teamB": "FC Barcelona",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/301414/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-      "eventName": "AS Roma vs Barcelona",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 16:45:00 +0000",
-      "endTime": "2026/09/30 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "CBS SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Paris vs Arsenal",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Paris",
-      "teamB": "Arsenal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-      "eventName": "Paris FC vs Arsenal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 16:45:00 +0000",
-      "endTime": "2026/09/30 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "CBS SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Häcken vs Juventus",
-    "image": "o",
-    "cat": "UCL Womens",
-    "eventInfo": {
-      "teamA": "Häcken",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-      "eventName": "BK Häcken vs Juventus",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 16:45:00 +0000",
-      "endTime": "2026/09/30 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "CBS SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "UAE vs Qatar",
-    "image": "o",
-    "cat": "Gulf Cup",
-    "eventInfo": {
-      "teamA": "UAE",
-      "teamB": "Qatar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-      "eventName": "United Arab Emirates vs Qatar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 17:30:00 +0000",
-      "endTime": "2026/09/30 19:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "AD SPORTS - FHD",
-      "OMAN SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "AD SPORTS - FHD",
-        "logo": ""
-      },
-      {
-        "title": "OMAN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Bahrain vs Yemen",
-    "image": "o",
-    "cat": "Gulf Cup",
-    "eventInfo": {
-      "teamA": "Bahrain",
-      "teamB": "Yemen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
-      "eventName": "Bahrain vs Yemen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/30 17:30:00 +0000",
-      "endTime": "2026/09/30 19:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "BAHRAIN SPORTS HD",
-      "OMAN SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "BAHRAIN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "OMAN SPORTS HD",
+        "title": "SD SERVER",
         "logo": ""
       },
       {

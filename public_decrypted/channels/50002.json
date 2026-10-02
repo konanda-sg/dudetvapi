@@ -1,5 +1,19 @@
 [
   {
+    "api": "ed66442378100f76a6812e2729d3fc51:1e8469905fcd2ba95e50da463adda11e",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7ctzefaaej/out/v1/d0ccb3ef984f49889170502e4840bf06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SKY SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "2028f8680f56c04e44e1806a3c838bbd:929b8285bcbfbea88fda1bf77555aa33",
+    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/m8patpdwo6/out/v1/595ca8db55de45339829ddded8871f44/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "APPLE TV FHD",
+    "type": "1"
+  },
+  {
     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
@@ -22,7 +36,7 @@
   },
   {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/dce5a89ec8856d2116a985eb90fec5f2/index.m3u8?s=uWaNHQy62JEo3ot18uk19A&e=1790505833&scheme=https|user-agent=Mozilla",
+    "link": "https://bl.rutube.ru/livestream/e0202335aaf9484fa917a265eb808e34/index.m3u8?s=GngpRTKERNPcjy-TyGwxKQ&e=1791001698&scheme=https|user-agent=Mozilla",
     "logo": "",
     "title": "RUSSIA FEED",
     "type": "0"

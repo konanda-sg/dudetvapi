@@ -19,6 +19,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SKY SPORTS FHD",
+      "APPLE TV FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
       "DUDE Tv F1 HD",
@@ -34,6 +36,14 @@
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
       {
         "title": "FANCODE - FHD",
         "logo": ""
@@ -552,92 +562,6 @@
     ]
   },
   {
-    "id": 50032,
-    "title": "Philadelphia Phillies",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Braves",
-      "teamB": "Phillies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-      "eventName": "Atlanta Braves vs Philadelphia Phillies",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 00:00:00 +0000",
-      "endTime": "2026/10/02 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NBC SPORTS FHD",
-      "TNT SPORTS FHD",
-      "TNT2 SPORTS FHD",
-      "DUDE Tv LIVE",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NBC SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "TNT2 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50055,
-    "title": "Aces vs Indiana Fever",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Aces",
-      "teamB": "Fever",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-      "eventName": "Las Vegas Aces vs Indiana Fever",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 01:00:00 +0000",
-      "endTime": "2026/10/02 03:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50062,
     "title": "South Africa vs Australia",
     "image": "o",
@@ -686,54 +610,6 @@
     ]
   },
   {
-    "id": 50069,
-    "title": "Pittsburgh Steelers",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Browns",
-      "teamB": "Steelers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4417/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
-      "eventName": "Cleveland Browns vs Pittsburgh Steelers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 00:15:00 +0000",
-      "endTime": "2026/10/02 03:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN4 SPORTS FHD",
-      "TSN3 SPORTS FHD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN4 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN3 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50071,
     "title": "Morocco",
     "image": "o",
@@ -768,19 +644,19 @@
   },
   {
     "id": 50075,
-    "title": "Jackets vs Buffalo Sabres",
+    "title": "Red Wings vs Rangers",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Blue Jackets",
-      "teamB": "Sabres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-      "eventName": "Columbus Blue Jackets vs Buffalo Sabres",
+      "teamA": "Red Wings",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+      "eventName": "Detroit Red Wings vs New York Rangers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 23:00:00 +0000",
-      "endTime": "2026/10/02 02:00:00 +0000"
+      "startTime": "2026/10/02 22:30:00 +0000",
+      "endTime": "2026/10/03 01:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -801,32 +677,27 @@
   },
   {
     "id": 50076,
-    "title": "Devils vs Philadelphia Flyers",
+    "title": "Hurricanes vs Washington Capitals",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Devils",
-      "teamB": "Flyers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-      "eventName": "New Jersey Devils vs Philadelphia Flyers",
+      "teamA": "Hurricanes",
+      "teamB": "Capitals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+      "eventName": "Carolina Hurricanes vs Washington Capitals",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 23:00:00 +0000",
-      "endTime": "2026/10/02 02:00:00 +0000"
+      "startTime": "2026/10/02 23:00:00 +0000",
+      "endTime": "2026/10/03 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -839,19 +710,19 @@
   },
   {
     "id": 50077,
-    "title": "Rangers vs Tampa Bay Lightning",
+    "title": "Winnipeg Jets vs Boston Bruins",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Lightning",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-      "eventName": "New York Rangers vs Tampa Bay Lightning",
+      "teamA": "Jets",
+      "teamB": "Bruins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+      "eventName": "Winnipeg Jets vs Boston Bruins",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 23:00:00 +0000",
-      "endTime": "2026/10/02 02:00:00 +0000"
+      "startTime": "2026/10/03 00:00:00 +0000",
+      "endTime": "2026/10/03 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -872,19 +743,19 @@
   },
   {
     "id": 50078,
-    "title": "Predators vs Minnesota Wild",
+    "title": "Dallas Stars vs St. Louis Blues",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Predators",
-      "teamB": "Wild",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-      "eventName": "Nashville Predators vs Minnesota Wild",
+      "teamA": "Stars",
+      "teamB": "Blues",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+      "eventName": "Dallas Stars vs St. Louis Blues",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 00:00:00 +0000",
-      "endTime": "2026/10/02 03:00:00 +0000"
+      "startTime": "2026/10/03 01:00:00 +0000",
+      "endTime": "2026/10/03 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -905,19 +776,19 @@
   },
   {
     "id": 50079,
-    "title": "Flames vs Seattle Kraken",
+    "title": "Golden Knights vs Anaheim Ducks",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Flames",
-      "teamB": "Kraken",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-      "eventName": "Calgary Flames vs Seattle Kraken",
+      "teamA": "Golden Knights",
+      "teamB": "Ducks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+      "eventName": "Vegas Golden Knights vs Anaheim Ducks",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 01:00:00 +0000",
-      "endTime": "2026/10/02 04:00:00 +0000"
+      "startTime": "2026/10/03 02:00:00 +0000",
+      "endTime": "2026/10/03 05:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -926,110 +797,6 @@
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50080,
-    "title": "Mammoth vs Chicago Blackhawks",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Mammoth",
-      "teamB": "Blackhawks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-      "eventName": "Utah Mammoth vs Chicago Blackhawks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 01:00:00 +0000",
-      "endTime": "2026/10/02 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50081,
-    "title": "Sharks vs Florida Panthers",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Sharks",
-      "teamB": "Panthers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-      "eventName": "San Jose Sharks vs Florida Panthers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 02:00:00 +0000",
-      "endTime": "2026/10/02 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50082,
-    "title": "Canucks vs Edmonton Oilers",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Canucks",
-      "teamB": "Oilers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-      "eventName": "Vancouver Canucks vs Edmonton Oilers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 02:00:00 +0000",
-      "endTime": "2026/10/02 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS FHD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1042,33 +809,64 @@
   },
   {
     "id": 50094,
-    "title": "Germany vs Serbia",
+    "title": "France vs Italy",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Germany",
-      "teamB": "Serbia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
-      "eventName": "Germany vs Serbia",
+      "teamA": "France",
+      "teamB": "Italy",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+      "eventName": "France vs Italy",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:50:00 +0000"
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD",
+      "FOX SPORTS FHD",
+      "TVE La 1 FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TVE La 1 FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Belgium vs Türkiye",
+    "image": "o",
+    "cat": "UEFA Nations",
+    "eventInfo": {
+      "teamA": "Belgium",
+      "teamB": "Türkiye",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4700/image",
+      "eventName": "Belgium vs Türkiye",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "FUBO NETWORK USA",
       "beIN ENGLISH FHD",
-      "ViX ESPANOL FHD",
-      "SporTV BR FHD",
-      "Nations League HD",
-      "DUDE Tv Live",
-      "beIN ARABIC HD",
-      "SonyLiv (Asia)",
-      "HD SERVER",
-      "LOW SERVER"
+      "SporTV BR FHD"
     ],
     "formatsNew": [
       {
@@ -1080,532 +878,315 @@
         "logo": ""
       },
       {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
         "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "Nations League HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50095,
-    "title": "Denmark vs Portugal",
-    "image": "o",
-    "cat": "UEFA Nations",
-    "eventInfo": {
-      "teamA": "Denmark",
-      "teamB": "Portugal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4476/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
-      "eventName": "Denmark vs Portugal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "ViX ESPANOL FHD",
-      "SporTV BR FHD",
-      "ESPN AR FHD",
-      "DUDE Tv Live",
-      "DAZN SPORTS HD",
-      "beIN ARABIC HD",
-      "SonyLiv (Asia)",
-      "HD SERVER ",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": "https://iili.io/CFFRvqJ.png"
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Greece vs Netherlands",
+    "title": "Hungary vs Georgia",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Greece",
-      "teamB": "Netherlands",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-      "eventName": "Greece vs Netherlands",
+      "teamA": "Hungary",
+      "teamB": "Georgia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4709/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4763/image",
+      "eventName": "Hungary vs Georgia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:50:00 +0000"
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "ViX ESPANOL FHD",
-      "ESPN AR FHD",
-      "DAZN SPORTS HD",
-      "beIN ARABIC HD",
-      "SonyLiv (Asia)",
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50097,
-    "title": "Wales vs Norway",
+    "title": "Ukraine vs Northern Ireland",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Wales",
-      "teamB": "Norway",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4702/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
-      "eventName": "Wales vs Norway",
+      "teamA": "Ukraine",
+      "teamB": "Northern Ireland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4701/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4786/image",
+      "eventName": "Ukraine vs Northern Ireland",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:50:00 +0000"
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "ViX ESPANOL FHD",
-      "DUDE Tv Live",
-      "BBC TWO HD",
-      "beIN ARABIC HD",
-      "SonyLiv (ASIA)",
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "BBC TWO HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ASIA)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50098,
-    "title": "Ireland vs Austria",
+    "title": "Poland vs Romania",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Ireland",
-      "teamB": "Austria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4693/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
-      "eventName": "Ireland vs Austria",
+      "teamA": "Poland",
+      "teamB": "Romania",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4703/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
+      "eventName": "Poland vs Romania",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:50:00 +0000"
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ViX ESPANOL FHD",
-      "DAZN SPORTS HD",
-      "DUDE Tv Live",
-      "SonyLiv (Asia)",
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50099,
-    "title": "Malta vs Gibraltar",
+    "title": "Bosnia vs Sweden",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Malta",
-      "teamB": "Gibraltar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-      "eventName": "Malta vs Gibraltar",
+      "teamA": "Bosnia & Herzegovina",
+      "teamB": "Sweden",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4479/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
+      "eventName": "Bosnia & Herzegovina vs Sweden",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:45:00 +0000"
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ViX ESPANOL FHD",
-      "DUDE Tv Live",
-      "SonyLiv (Asia)",
-      "HD SERVER ",
-      "LOW SERVER"
+      "beIN ENGLISH FHD"
     ],
     "formatsNew": [
       {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50100,
-    "title": "Israel vs Kosovo",
+    "title": "Faroe Islands vs Slovakia",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Israel",
-      "teamB": "Kosovo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4480/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-      "eventName": "Fu*K Israel vs Kosovo",
+      "teamA": "Faroe Islands",
+      "teamB": "Slovakia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4760/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+      "eventName": "Faroe Islands vs Slovakia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:45:00 +0000",
-      "endTime": "2026/10/01 20:45:00 +0000"
+      "startTime": "2026/10/02 18:45:00 +0000",
+      "endTime": "2026/10/02 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ViX ESPANOL FHD",
-      "DUDE Tv Live",
-      "DAZN SPORTS HD",
-      "SonyLiv (Asia)",
-      "HD SERVER ",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "ViX ESPANOL FHD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50101,
-    "title": "Azerbaijan vs Liechtenstein",
+    "title": "Latvia vs Montenegro",
     "image": "o",
     "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Azerbaijan",
-      "teamB": "Liechtenstein",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4742/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image",
-      "eventName": "Azerbaijan vs Liechtenstein",
+      "teamA": "Latvia",
+      "teamB": "Montenegro",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+      "eventName": "Latvia vs Montenegro",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 16:00:00 +0000",
-      "endTime": "2026/10/01 18:00:00 +0000"
+      "startTime": "2026/10/02 16:00:00 +0000",
+      "endTime": "2026/10/02 18:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "ESPN AR FHD",
-      "beIN ARABIC HD",
-      "DUDE Tv Live",
-      "TAPMAD - AQ",
-      "SonyLiv ",
-      "HD SERVER ",
-      "LOW SERVER"
+      "FUBO NETWORK USA"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "TAPMAD - AQ",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv ",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "FUBO NETWORK USA",
         "logo": ""
       }
     ]
   },
   {
     "id": 50102,
-    "title": "Manchester City vs Real Madrid",
+    "title": "Cyprus vs Armenia",
     "image": "o",
-    "cat": "UCL Womens",
+    "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "Man City",
-      "teamB": "Real Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-      "eventName": "Manchester City vs Real Madrid",
+      "teamA": "Cyprus",
+      "teamB": "Armenia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4482/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+      "eventName": "Cyprus vs Armenia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 19:00:00 +0000",
-      "endTime": "2026/10/01 21:00:00 +0000"
+      "startTime": "2026/10/02 16:00:00 +0000",
+      "endTime": "2026/10/02 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "CBS NETWORK FHD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "CBS NETWORK FHD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50103,
-    "title": "PSG W vs OH Leuven",
+    "title": "Kazakhstan vs Moldova",
     "image": "o",
-    "cat": "UCL Womens",
+    "cat": "UEFA Nations",
     "eventInfo": {
-      "teamA": "PSG",
-      "teamB": "OH Leuven",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/55505/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/178246/image",
-      "eventName": "PSG W vs OH Leuven",
+      "teamA": "Kazakhstan",
+      "teamB": "Moldova",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4772/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+      "eventName": "Kazakhstan vs Moldova",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 19:00:00 +0000",
-      "endTime": "2026/10/01 21:00:00 +0000"
+      "startTime": "2026/10/02 14:00:00 +0000",
+      "endTime": "2026/10/02 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "SpotzX Live",
-      "LOW SERVER"
+      "FOX SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "SpotzX Live",
+        "title": "FOX SPORTS FHD",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "Eldense vs Real Oviedo",
+    "image": "o",
+    "cat": "LaLiga 2",
+    "eventInfo": {
+      "teamA": "Eldense",
+      "teamB": "Oviedo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+      "eventName": "CD Eldense vs Real Oviedo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/02 18:30:00 +0000",
+      "endTime": "2026/10/02 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Vietnam vs Pakistan",
+    "image": "o",
+    "cat": "FIFA ASEAN Cup",
+    "eventInfo": {
+      "teamA": "Vietnam",
+      "teamB": "Pakistan",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+      "eventName": "Vietnam vs Pakistan",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/02 09:00:00 +0000",
+      "endTime": "2026/10/02 11:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Thailand vs Philippines",
+    "image": "o",
+    "cat": "FIFA ASEAN Cup",
+    "eventInfo": {
+      "teamA": "Thailand",
+      "teamB": "Philippines",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+      "eventName": "Thailand vs Philippines",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/02 09:00:00 +0000",
+      "endTime": "2026/10/02 11:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]

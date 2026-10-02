@@ -1,44 +1,8 @@
 [
   {
-    "api": "cc4f3e59e98529f9e244b3b02a6a8d15:425b94fb3b90890a11a783db7b5cdd79",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vbbil7n9j7/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd?aws_sessionId=263332e7-1595-49e8-bf10-fdf6b096b31d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4517995.m3u8?txSecret=c9ecc177d74640a9aa79bdaeabe1c6d7&txTime=6ABEB9F5|Referer=https://player.online909.com/",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57399/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "DAZN SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9996611f1d6fd8b5f098d9e85f7a300d-1790878200191",
-    "logo": "",
-    "title": "SonyLiv (Asia)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/1271ee3d-69e4-4078-916b-167db2a3bd45.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.40/hls/OLLLQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]

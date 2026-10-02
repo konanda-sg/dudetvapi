@@ -1,58 +1,8 @@
 [
   {
-    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-    "title": "FOX SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "9fd0ab3ba906095355917aa55dfcd7d1:40ec5f748d7e6989e7ea3bd996838c77",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ssbcporbui/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd?aws_sessionId=3a305f69-5249-4f15-b445-e5b8f4405023|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57394/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
+    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
     "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8",
-    "logo": "",
-    "title": "BBC TWO HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
-    "logo": "",
-    "title": "beIN ARABIC HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9996611f1d6fd8b5f098d9e85f7a300d-1790878200191",
-    "logo": "",
-    "title": "SonyLiv (ASIA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/64876c38-ef2f-4837-ade3-5b0fced9ca68.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.41/hls/OLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
     "type": "0"
   }
 ]

@@ -1,23 +1,8 @@
 [
   {
-    "api": "dfd74824c27a062dd7e8a6c686d727ba:1b4ac895a2a982a9dd73a25205d8555c",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ypcwv6bvbl/out/v1/7797a272b3d64454a38712cfd4090be9/910b92bb-1abd-4815-b6a9-f2603e68ce5c-cenc.mpd?aws_sessionId=e1ec26d3-a7dd-4c22-b023-995c79350915|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
+    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "title": "FOX SPORTS FHD",
     "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4646522.m3u8?txSecret=498ab125207b8cc509b53937786718d9&txTime=6ABEC0BC|Referer=https://player.online909.com/",
-    "logo": "",
-    "title": "SpotzX Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/AIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
   }
 ]

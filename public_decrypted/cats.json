@@ -234,12 +234,6 @@
     "catLink": "cats/netflix.json"
   },
   {
-    "id": "58",
-    "title": "Prime Video",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Amazon_Prime_Video_blue_logo_1.svg/1024px-Amazon_Prime_Video_blue_logo_1.svg.png",
-    "catLink": "primevideo"
-  },
-  {
     "id": "59",
     "title": "Binges",
     "image": "https://binge.buzz/assets/binge.webp",

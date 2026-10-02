@@ -567,6 +567,82 @@
     ]
   },
   {
+    "id": 50027,
+    "title": "Valkyries vs Dallas Wings",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Valkyries",
+      "teamB": "Wings",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+      "eventName": "Golden State Valkyries vs Dallas Wings",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 01:00:00 +0000",
+      "endTime": "2026/10/03 03:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50054,
+    "title": "CFL",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Saskatchewan",
+      "teamB": "Calgary",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4433/image",
+      "eventName": "Saskatchewan Roughriders vs Calgary Stampeders",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 01:30:00 +0000",
+      "endTime": "2026/10/03 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "TSN5 SPORTS FHD",
+      "CFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "CFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50062,
     "title": "South Africa vs Australia",
     "image": "o",
@@ -615,6 +691,40 @@
     ]
   },
   {
+    "id": 50063,
+    "title": "[OLD] Zuffa Boxing 11",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Ottawa",
+      "teamB": "Hamilton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+      "eventName": "Ottawa Redblacks vs Hamilton Tiger-Cats",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/10/02 23:00:00 +0000",
+      "endTime": "2026/10/03 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS FHD",
+      "CFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "CFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50071,
     "title": "Morocco",
     "image": "o",
@@ -627,8 +737,8 @@
       "eventName": "World Grand Prix",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/01 18:00:00 +0000",
-      "endTime": "2026/10/01 20:00:00 +0000"
+      "startTime": "2026/10/02 18:00:00 +0000",
+      "endTime": "2026/10/02 20:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -666,10 +776,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -732,10 +847,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PREMIER SPORTS FHD",
+      "TSN SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PREMIER SPORTS FHD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -896,6 +1021,7 @@
     "formats": [
       "FUBO NETWORK USA",
       "beIN ENGLISH FHD",
+      "ViX ESPANOL FHD",
       "SporTV BR FHD",
       "DUDE Tv Live",
       "HD SERVER ",
@@ -910,6 +1036,10 @@
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
       },
       {
         "title": "SporTV BR FHD",
@@ -952,12 +1082,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "ViX ESPANOL FHD",
       "DUDE Tv Live",
       "HD SERVER ",
       "SD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1038,12 +1173,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "ViX ESPANOL FHD",
       "DUDE Tv Live",
       "HD SERVER ",
       "SD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1082,6 +1222,7 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
+      "ViX ESPANOL FHD",
       "DUDE Tv Live",
       "HD SERVER ",
       "SD SERVER",
@@ -1091,6 +1232,10 @@
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
       },
       {
         "title": "DUDE Tv Live",

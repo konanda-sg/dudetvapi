@@ -1,28 +1,42 @@
 [
   {
-    "api": "70bf7fbb20c1b1c64c46193bf3491e77:7b50823b4762e61cb5bfdcc90fe205eb",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tkwu4qjgov/out/v1/58d9c0f5b2d84184ad2cd6189284c513/45e1a162-9b02-4dd3-bda7-0094267cb01e-cenc.mpd?aws_sessionId=c1ce6802-b80a-40d1-b89a-01e51ec79b31|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-    "title": "PARAMOUNT+ FHD",
-    "type": "1"
-  },
-  {
-    "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "CBS NETWORK FHD",
+    "api": "086083351bbda499176a4c7837ba33e6:87a8a3b9f49fd5d29e32212f710a12f8",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/weajkfl9z5/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd?aws_sessionId=6d29f66f-2a94-4d8d-ab05-c1033f2ef273|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4646521.m3u8?txSecret=1d67b05d01567f5173ac2fb0243cd887&txTime=6ABEC0D7|Referer=https://player.online909.com/",
+    "link": "https://chatgpt.hereisman.net/playlist/57423/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "FOX SOCCER+ HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.55/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "https://netanjahu.hls.st/t/cd186261948824a0b8f4f6f8b1ede507/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "Sport TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/335e7f5359f520168a84b9a1c10b788d/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "ARENA SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.59/hls/RRUUUA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"

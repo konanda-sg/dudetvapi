@@ -11,10 +11,10 @@
       "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
       "eventName": "Formula 1 -  BAHRAIN GRAND PRIX IN MALAYSIA",
       "eventType": "null",
-      "eventBanner": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/hzwmw",
       "isHot": "0",
-      "startTime": "2026/10/02 04:30:00 +0000",
-      "endTime": "2026/10/02 09:30:00 +0000"
+      "startTime": "2026/10/03 04:30:00 +0000",
+      "endTime": "2026/10/03 09:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -116,8 +116,8 @@
       "eventName": "MotoGP - Grand Prix of Japan",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 01:30:00 +0000",
-      "endTime": "2026/10/02 07:00:00 +0000"
+      "startTime": "2026/10/03 01:00:00 +0000",
+      "endTime": "2026/10/03 07:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -824,7 +824,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
       "eventName": "France vs Italy",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/02 18:45:00 +0000",
       "endTime": "2026/10/02 20:50:00 +0000"
     },
@@ -833,7 +833,12 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "TVE La 1 FHD"
+      "ViX ESPANOL FHD",
+      "TVE La 1 FHD",
+      "FOX SPORTS HD",
+      "HD SERVER ",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -842,10 +847,30 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
       },
       {
         "title": "TVE La 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -871,7 +896,11 @@
     "formats": [
       "FUBO NETWORK USA",
       "beIN ENGLISH FHD",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -884,6 +913,22 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -907,11 +952,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -935,11 +995,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -963,11 +1038,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -991,11 +1081,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "SD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1019,11 +1129,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DAZN SPORTS HD",
+      "HD SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
         "logo": ""
       }
     ]
@@ -1047,11 +1162,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO NETWORK USA"
+      "FUBO NETWORK USA",
+      "ViX ESPANOL FHD",
+      "DAZN SPORTS HD",
+      "Sport TV HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FUBO NETWORK USA",
+        "logo": ""
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1075,11 +1215,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "ViX ESPANOL FHD",
+      "FOX SOCCER+ HD",
+      "Sport TV HD",
+      "ARENA SPORTS HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1103,11 +1268,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "ViX ESPANOL FHD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1127,62 +1312,6 @@
       "isHot": "0",
       "startTime": "2026/10/02 18:30:00 +0000",
       "endTime": "2026/10/02 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Vietnam vs Pakistan",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Vietnam",
-      "teamB": "Pakistan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-      "eventName": "Vietnam vs Pakistan",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 09:00:00 +0000",
-      "endTime": "2026/10/02 11:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Thailand vs Philippines",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Thailand",
-      "teamB": "Philippines",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-      "eventName": "Thailand vs Philippines",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/02 09:00:00 +0000",
-      "endTime": "2026/10/02 11:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

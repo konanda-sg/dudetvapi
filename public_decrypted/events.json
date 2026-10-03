@@ -667,10 +667,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -1553,7 +1558,9 @@
     "formats": [
       "beIN ENGLISH FHD",
       "FOX SPORTS FHD",
-      "TVE La 1 FHD"
+      "TVE La 1 FHD",
+      "SporTV BR FHD",
+      "HD SERVER "
     ],
     "formatsNew": [
       {
@@ -1562,10 +1569,18 @@
       },
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "TVE La 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "HD SERVER ",
         "logo": ""
       }
     ]
@@ -1651,7 +1666,9 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "DUDE Tv Live",
+      "ViX ESPANOL FHD",
+      "SPORT1 CZ - AQ",
+      "ITV SPORTS HD",
       "beIN ARABIC HD",
       "SonyLiv (ASIA)",
       "HD SERVER ",
@@ -1663,7 +1680,15 @@
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
+      },
+      {
+        "title": "SPORT1 CZ - AQ",
+        "logo": ""
+      },
+      {
+        "title": "ITV SPORTS HD",
         "logo": ""
       },
       {
@@ -1875,11 +1900,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SportDigital Fussball",
+      "AD SPORTS FHD",
+      "ALKASS ONE HD",
+      "KTV SPORT HD ",
+      "OMAN SPORTS HD",
+      "BAHRAIN SPORTS HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "AD SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ALKASS ONE HD",
+        "logo": ""
+      },
+      {
+        "title": "KTV SPORT HD ",
+        "logo": ""
+      },
+      {
+        "title": "OMAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "BAHRAIN SPORTS HD",
         "logo": ""
       }
     ]
@@ -2066,7 +2116,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
       "eventName": "India vs Brazil",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/03 14:00:00 +0000",
       "endTime": "2026/10/03 16:05:00 +0000"
     },

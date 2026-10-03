@@ -1,8 +1,23 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "beIN ENGLISH FHD",
+    "api": "ed9fd6e88ad0941d18017ce4be329122:5f8c4aad1f35f4322c465f376e7c6bee",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6t54hokz8r/out/v1/088508d934814ee2a18843e0fd67d4cd/7752db0f-879a-476e-9d48-bed24c1ca1f7-cenc.mpd?aws_sessionId=bf6acfea-c364-4d8f-a1c1-3400320123b8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PARAMOUNT+ FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/9756548b14e88db489e43bda7b57d066/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/YLLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
   }
 ]

@@ -1,8 +1,30 @@
 [
   {
+    "api": "e23751f9dd3451a53331d8c1c99d63a3:0abf055e9f2f68b698efaa0f5c3983fe",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/fizlrly22u/out/v1/2b456b99a98540d9b519321098e2d75a/343f39c4-8f61-469e-b029-ef3135a00717-cenc.mpd?aws_sessionId=9a56ae8a-f9eb-4812-ac89-6cf8158ded0f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
     "title": "CBS NETWORK",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/0eed0dfe23f75fb02e2c0bac66aa48a6/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/YLLL.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

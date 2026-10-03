@@ -1,7 +1,22 @@
 [
   {
+    "api": "de43b4b08441f38e6d502346ddd6349f:7b4e00876bda6e6caf287d1aee34e1ef",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/bibdqwm2hn/out/v1/f4d2465afbff4b9bb235596f80dc94ea/d4cacdf9-7e17-4852-a6a0-565c2d2568ae-cenc.mpd?aws_sessionId=b4475ac2-6843-4878-b777-027be9f524c4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "PARAMOUNT+ FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://netanjahu.hls.st/t/4ad09f2f388cbe0e55b5cc48ac2a2f16/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "PARAMOUNT+ HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/YLLLA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   }

@@ -1,37 +1,16 @@
 [
   {
-    "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.vivo155.com/live/sd-1-4642711.m3u8?txSecret=6618c191e90a38c1780146635e488732&txTime=6ABBEE1F|Referer=https://player.online909.com/",
+    "link": "https://live.vivo155.com/live/sd-1-4567292.m3u8?txSecret=f052bf9aefe438f3403c3740a7fd69dc&txTime=6AC11D25|Referer=https://player.online909.com/",
     "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/370cdbf99b45069a3f358dfc195e5bff/index.m3u8?|Referer=https://iplayer.is/",
+    "link": "http://193.47.62.44/hls/shhhhaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
-    "title": "Sport TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/da36bf7d-907f-4c61-aaff-c9b6ebd0cd38.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "HD SERVER ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.41/hls/UUUUAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER ",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]

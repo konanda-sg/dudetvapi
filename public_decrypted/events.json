@@ -1340,64 +1340,6 @@
     ]
   },
   {
-    "id": 50085,
-    "title": "Pakistan vs India",
-    "image": "o",
-    "cat": "Asian Games",
-    "eventInfo": {
-      "teamA": "PAK",
-      "teamB": "IND",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "eventName": "Pakistan vs India",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/03 04:30:00 +0000",
-      "endTime": "2026/10/03 08:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Tamil",
-      "SonyLiv - Telugu",
-      "SonyLiv - Kannada"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv - English",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Hindi",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Tamil",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Telugu",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Kannada",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50086,
     "title": "Atlético Mineiro vs RB Bragantino",
     "image": "o",
@@ -1708,11 +1650,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "beIN ARABIC HD",
+      "SonyLiv (ASIA)",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ASIA)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1736,11 +1703,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "beIN ARABIC HD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1764,11 +1741,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "beIN ARABIC HD"
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "beIN ARABIC HD",
         "logo": ""
       }
     ]
@@ -1792,11 +1774,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX SOCCER+ HD",
+      "HD SERVER ",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1821,10 +1813,13 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD",
-      "ESPN AR FHD",
+      "ViX ESPANOL FHD",
+      "FOX SPORTS HD",
       "beIN ARABIC HD",
-      "HD SERVER "
+      "HD SERVER ",
+      "SD SERVER",
+      "SonyLiv ",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
@@ -1832,12 +1827,12 @@
         "logo": ""
       },
       {
-        "title": "FOX SPORTS FHD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
       },
       {
-        "title": "ESPN AR FHD",
-        "logo": ""
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "beIN ARABIC HD",
@@ -1845,6 +1840,18 @@
       },
       {
         "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1896,11 +1903,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SportDigital Fussball",
+      "AD SPORTS FHD",
+      "ALKASS ONE HD",
+      "KTV SPORT HD ",
+      "OMAN SPORTS HD",
+      "BAHRAIN SPORTS HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "AD SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ALKASS ONE HD",
+        "logo": ""
+      },
+      {
+        "title": "KTV SPORT HD ",
+        "logo": ""
+      },
+      {
+        "title": "OMAN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "BAHRAIN SPORTS HD",
         "logo": ""
       }
     ]
@@ -1980,11 +2012,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2029,18 +2066,78 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
       "eventName": "India vs Brazil",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/03 14:00:00 +0000",
       "endTime": "2026/10/03 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "HD SERVER",
+      "Sport TV HD",
+      "ARENA SPORTS HD",
+      "SonyLiv (ENG)",
+      "SonyLiv (HIN)",
+      "SonyLiv (BEN)",
+      "SonyLiv (TAM)",
+      "SonyLiv (TEL)",
+      "SonyLiv (KAN)",
+      "SonyLiv (MAL)",
+      "Sony TEN2 HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "SporTV BR FHD",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (HIN)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (BEN)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (TAM)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (TEL)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (KAN)",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (MAL)",
+        "logo": ""
+      },
+      {
+        "title": "Sony TEN2 HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2092,11 +2189,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK",
+      "PARAMOUNT+ HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
+      {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2120,9 +2232,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "PARAMOUNT+ HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2148,39 +2270,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
+      "PARAMOUNT+ HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "PARAMOUNT+ FHD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Chesterfield vs Tranmere Rovers",
-    "image": "o",
-    "cat": "League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Chesterfield",
-      "teamB": "Tranmere",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/68/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/51/image",
-      "eventName": "Chesterfield vs Tranmere Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/03 11:30:00 +0000",
-      "endTime": "2026/10/03 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "beIN ENGLISH FHD",
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2214,49 +2318,6 @@
       },
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Hong Kong vs Cambodia",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Hong Kong",
-      "teamB": "Cambodia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-      "eventName": "Hong Kong vs Cambodia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/03 10:00:00 +0000",
-      "endTime": "2026/10/03 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TAPMAD - FHD",
-      "DUDE Tv Live",
-      "HD SERVER ",
-      "LOW SERVER "
-    ],
-    "formatsNew": [
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER ",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER ",
         "logo": ""
       }
     ]

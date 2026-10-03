@@ -1,26 +1,5 @@
 [
   {
-    "api": "102758494e9e38b1ab4de443a53f7cf5:1bf8f427168a464b56e2cfb19a748756",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9lo6kzlcnj/out/v1/15add1463f2c43579387de378d28ea3b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "SKY SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "0ca9f221ca51a834f40d4afcebe9fec0:603288517e6254429ba0772ea2b59c31",
-    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zs4jbzkcip/out/v1/5cfad96ac5e646cb966d7ed6e7765c01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "APLE TV FHD",
-    "type": "1"
-  },
-  {
-    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-    "title": "TSN SPORTS FHD",
-    "type": "1"
-  },
-  {
     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",

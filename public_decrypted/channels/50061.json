@@ -1,23 +1,20 @@
 [
   {
-    "api": "36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "api": "d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "title": "WILLOW - FHD",
     "type": "1"
   },
   {
-    "api": "36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "api": "d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG_DXcri3009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=92baf31594e8d0811e9b664501742e7f-1790811002755",
-    "logo": "",
-    "title": "SonyLiv (Asia)",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791028718~acl=/*~id=81585395385558628811222667147515~hmac=f5e2a8f4eba79de3d48c27901541137b5c6e3f91a0bdf3e3edd82ae94ff122c3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+    "title": "SonyLiv (ENG)",
     "type": "0"
   }
 ]

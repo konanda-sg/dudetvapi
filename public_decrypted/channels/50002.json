@@ -1,5 +1,19 @@
 [
   {
+    "api": "7b093b15b677c732d99e94e4e7a7dc3f:a16ef774c00333b13c0572da8d13a3d3",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ttmfhg11yd/out/v1/de59f982be774908a518a2458751a52c/cenc.mpd",
+    "logo": "",
+    "title": "SKY SPORTS FHD",
+    "type": "1"
+  },
+  {
+    "api": "22ab68dce16cc62dbdbf61a93fe9455e:5266d40464a632a3e6069ce8ccdab36c",
+    "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jmkhzvjref/out/v1/33df23745a174bb1811fc2f96e900b08/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "APPLE TV FHD",
+    "type": "1"
+  },
+  {
     "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
@@ -36,28 +50,28 @@
   },
   {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/5aa8c625a0bd70233234f7fb502ab395/index.m3u8?s=zkhiQGCNgRKaz7c2RtAMFQ&e=1791088138&scheme=https|user-agent=Mozilla",
+    "link": "https://bl.rutube.ru/livestream/d99bbd05aea1c0084c640e5dd9851834/index.m3u8?s=ho-OlNZ8a-rYHUEfg_0MeQ&e=1791100384&scheme=https|user-agent=Mozilla",
     "logo": "",
     "title": "RUSSIA FEED",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/13b9ef82-ed1f-4ced-9797-e0e58389e137/master.m3u8",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8",
     "logo": "",
     "title": "Sportscast FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/6e22d0b17fe601a9223192cdfed2339c/index.m3u8?|Referer=https://iplayer.is/",
+    "link": "https://netanjahu.hls.st/t/d7e2d00b5b21655224ed97d8a52a7e68/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
     "title": "DAZN SPORTS FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://netanjahu.hls.st/t/a89b7ee991e4a03e066d91f63d46280d/index.m3u8?|Referer=https://iplayer.is/",
+    "link": "https://netanjahu.hls.st/t/33999099267acc06e541fb62fa3c3cd3/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
     "title": "ELEVEN SPORTS PL",
     "type": "0"

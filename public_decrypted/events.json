@@ -12,13 +12,15 @@
       "eventName": "Formula 1 -  BAHRAIN GRAND PRIX IN MALAYSIA",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/hzwmw",
-      "isHot": "1",
-      "startTime": "2026/10/03 07:55:00 +0000",
-      "endTime": "2026/10/03 09:30:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/10/04 06:55:00 +0000",
+      "endTime": "2026/10/04 08:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SKY SPORTS FHD",
+      "APPLE TV FHD",
       "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
@@ -38,6 +40,14 @@
       "VIAPLAY NL [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
       {
         "title": "TSN SPORTS FHD",
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
@@ -929,6 +939,44 @@
     ]
   },
   {
+    "id": 50070,
+    "title": "WCL",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "WCL",
+      "teamB": "WCL",
+      "teamAFlag": "images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+      "teamBFlag": "images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+      "eventName": "World Championship of Legends",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 11:30:00 +0000",
+      "endTime": "2026/10/03 15:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "FANCODE FHD",
+      "WILLOW - ALT"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      }
+    ]
+  },
+  {
     "id": 50071,
     "title": "Morocco",
     "image": "o",
@@ -1773,7 +1821,10 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "ESPN AR FHD",
+      "beIN ARABIC HD",
+      "HD SERVER "
     ],
     "formatsNew": [
       {
@@ -1782,6 +1833,18 @@
       },
       {
         "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "ESPN AR FHD",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
         "logo": ""
       }
     ]
@@ -2141,11 +2204,59 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50118,
+    "title": "Hong Kong vs Cambodia",
+    "image": "o",
+    "cat": "FIFA ASEAN Cup",
+    "eventInfo": {
+      "teamA": "Hong Kong",
+      "teamB": "Cambodia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
+      "eventName": "Hong Kong vs Cambodia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 10:00:00 +0000",
+      "endTime": "2026/10/03 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TAPMAD - FHD",
+      "DUDE Tv Live",
+      "HD SERVER ",
+      "LOW SERVER "
+    ],
+    "formatsNew": [
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]

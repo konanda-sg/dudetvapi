@@ -192,12 +192,8 @@
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
-      "PARAMOUNT+ ALT",
       "TNT SPORTS FHD",
-      "PARAMOUNT+ FHD (ES)",
-      "PARAMOUNT+ FHD (PT)",
       "PARAMOUNT+ HD",
-      "PARAMOUNT+ HD (2)",
       "DUDE Tv Live",
       "DUDE Tv LIVE",
       "PARAMOUNT+ [FHD]",
@@ -212,27 +208,11 @@
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
-        "title": "PARAMOUNT+ ALT",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
         "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "PARAMOUNT+ FHD (ES)",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ FHD (PT)",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
         "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ HD (2)",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
@@ -601,10 +581,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NBA HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -738,10 +723,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
+      "DUDE Tv MLB HD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv MLB HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -771,10 +766,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX SPORTS FHD",
+      "FOX DEPORTES",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1033,10 +1038,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1066,10 +1076,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1099,10 +1114,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1132,10 +1152,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1165,10 +1190,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1457,10 +1487,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "NHL LIVE HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "NHL LIVE HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1490,10 +1525,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1523,10 +1563,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""

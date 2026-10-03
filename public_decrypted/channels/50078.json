@@ -1,13 +1,22 @@
 [
   {
     "api": "",
-    "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "link": "https://chatgpt.hereisman.net/playlist/57524/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NHL HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream3.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "logo": "",
     "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/nhl/2026-10-02/stl-dal",
+    "link": "https://embedindia.st/embed/nhl/2026-10-03/ott-tor",
+    "logo": "",
     "title": "NHL LIVE [FHD]",
     "type": "2"
   }

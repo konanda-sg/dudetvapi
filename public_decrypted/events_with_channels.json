@@ -380,12 +380,8 @@
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
-      "PARAMOUNT+ ALT",
       "TNT SPORTS FHD",
-      "PARAMOUNT+ FHD (ES)",
-      "PARAMOUNT+ FHD (PT)",
       "PARAMOUNT+ HD",
-      "PARAMOUNT+ HD (2)",
       "DUDE Tv Live",
       "DUDE Tv LIVE",
       "PARAMOUNT+ [FHD]",
@@ -400,27 +396,11 @@
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
-        "title": "PARAMOUNT+ ALT",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
         "title": "TNT SPORTS FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "PARAMOUNT+ FHD (ES)",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ FHD (PT)",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
         "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "PARAMOUNT+ HD (2)",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
       },
       {
@@ -454,17 +434,10 @@
     ],
     "decoded_channels": [
       {
-        "api": "db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "555002659e06532881e22447986a79da:8ece00ca4e37a67a8763f5b2ff60e948",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ej80ruf35n/out/v1/fee46a895a76426eb2e5f13a045c6c95/befe6c61-480a-4063-a7a4-bd1b76f5e0df-cenc.mpd?aws_sessionId=c2effc63-fa98-4932-88fe-d0133d24a27d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ ALT",
         "type": "1"
       },
       {
@@ -475,31 +448,10 @@
         "type": "1"
       },
       {
-        "api": "b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD (ES)",
-        "type": "1"
-      },
-      {
-        "api": "73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD (PT)",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57167/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/57507/load-playlist-multi?|Referer=https://gooz.aapmains.net",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57169/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ HD (2)",
         "type": "0"
       },
       {
@@ -518,21 +470,21 @@
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-rosas-jr-vs-barcelos-29468",
+        "link": "https://embedindia.st/embed/ufc-332-silva-vs-wang-29759",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-rosas-jr-vs-barcelos-29469",
+        "link": "https://embedindia.st/embed/ufc-332-silva-vs-wang-29760",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ ES [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-rosas-jr-vs-barcelos-29470",
+        "link": "https://embedindia.st/embed/ufc-332-silva-vs-wang-29761",
         "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ PT [FHD]",
         "type": "2"
@@ -1188,10 +1140,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NBA HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NBA HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1204,13 +1161,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/57220/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NBA HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://",
+        "link": "https://embedindia.st/embed/nba/2026-10-03/mia-tor",
+        "logo": "",
         "title": "NBA LIVE [FHD]",
         "type": "2"
       }
@@ -1394,10 +1360,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
+      "DUDE Tv MLB HD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "DUDE Tv MLB HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1409,15 +1385,29 @@
     ],
     "decoded_channels": [
       {
+        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/57515/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-09-30/bos-nyy",
+        "link": "https://embedindia.st/embed/mlb/2026-10-03/nyy-tb",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1444,10 +1434,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FOX SPORTS FHD",
+      "FOX DEPORTES",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1459,14 +1459,30 @@
     ],
     "decoded_channels": [
       {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
+        "title": "FOX SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX DEPORTES",
+        "type": "1"
+      },
+      {
         "api": "",
         "link": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/mlb/2026-09-30/chc-sd",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1823,7 +1839,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://embedindia.st/embed/2026-world-grand-prix--day-5-29600",
+        "link": "https://embedindia.st/embed/2026-world-grand-prix--day-6-29601",
         "logo": "",
         "title": "DARTS LIVE [FHD]",
         "type": "2"
@@ -1857,10 +1873,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1873,13 +1894,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/57519/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NHL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-02/nyr-det",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/car-phi",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1905,10 +1935,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1921,6 +1956,13 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/57516/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NHL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
         "logo": "",
         "title": "DUDE Tv Live",
@@ -1928,7 +1970,7 @@
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-02/wsh-car",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/mtl-pit",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
@@ -1955,10 +1997,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1970,42 +2017,28 @@
     ],
     "decoded_channels": [
       {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57449/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/57523/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "SortzX NHL HD",
+        "title": "DUDE Tv NHL HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-02/bos-wpg",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/wsh-tb",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50078,
@@ -2026,10 +2059,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2042,13 +2080,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/57524/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NHL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-02/stl-dal",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/ott-tor",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2074,10 +2121,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2090,13 +2142,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/57536/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NHL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-02/ana-vgk",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/nj-nyi",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2138,13 +2199,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/sdezqfza55.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream5.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-01/chi-uta",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/bos-min",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2556,10 +2619,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "NHL LIVE HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "NHL LIVE HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2572,13 +2640,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/57526/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "NHL LIVE HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/chi-buf",
+        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2604,10 +2681,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2619,63 +2701,28 @@
     ],
     "decoded_channels": [
       {
-        "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/57522/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "FUBO NETWORK USA",
-        "type": "1"
-      },
-      {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "8959a54083ac9b038280f7a197bb8e49:8339e2ebe47760127758a395d04d3c9f",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mu2pxung7j/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd?aws_sessionId=6f0890cb-778b-4837-9611-29c007da0923|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-        "title": "ViX ESPANOL FHD",
-        "type": "1"
-      },
-      {
-        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://iili.io/CFFRvqJ.png",
-        "title": "SporTV BR FHD",
-        "type": "1"
+        "title": "DUDE Tv NHL HD",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57428/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://edgestream5.pro/hls/sdezqfza55.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+        "link": "https://embedindia.st/embed/nhl/2026-10-03/uta-cbj",
         "logo": "",
-        "title": "HD SERVER ",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.rtmpcdn.com/live/ab1ea1d1-7137-44ee-8592-90789d7aa234.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/OIIIQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50096,
@@ -2696,10 +2743,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NHL HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2723,7 +2775,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50097,

@@ -12,28 +12,36 @@
       "eventName": "Formula 1 -  BAHRAIN GRAND PRIX IN MALAYSIA",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/hzwmw",
-      "isHot": "0",
-      "startTime": "2026/10/03 04:30:00 +0000",
-      "endTime": "2026/10/03 09:45:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/10/03 07:55:00 +0000",
+      "endTime": "2026/10/03 09:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "FANCODE - FHD",
       "SporTV BR FHD",
       "DUDE Tv F1 HD",
+      "FORMULA 1 FHD",
       "RUSSIA FEED",
-      "SKY F1 Italia [IT]",
       "Sportscast FHD",
+      "DAZN SPORTS FHD",
+      "ELEVEN SPORTS PL",
+      "SKY SPORTS HD",
+      "SD SERVER",
+      "SKY F1 Italia [IT]",
       "DAZN ESPANOL [FHD]",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
       "SKY ITALIA [FHD]",
-      "VIAPLAY NL [FHD]",
-      "SKY SPORTS HD",
-      "SD SERVER"
+      "VIAPLAY NL [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "FANCODE - FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
@@ -47,15 +55,35 @@
         "logo": ""
       },
       {
+        "title": "FORMULA 1 FHD",
+        "logo": ""
+      },
+      {
         "title": "RUSSIA FEED",
         "logo": ""
       },
       {
-        "title": "SKY F1 Italia [IT]",
+        "title": "Sportscast FHD",
         "logo": ""
       },
       {
-        "title": "Sportscast FHD",
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ELEVEN SPORTS PL",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SKY F1 Italia [IT]",
         "logo": ""
       },
       {
@@ -77,17 +105,16 @@
       {
         "title": "VIAPLAY NL [FHD]",
         "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
       {
         "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -111,59 +138,38 @@
       },
       {
         "api": "",
-        "link": "https://bl.rutube.ru/livestream/eeec6e731c8eef4ef634e1e849851305/index.m3u8?s=ZNvIrq2OqRyB8JkqkqRkng&e=1791014234&scheme=https|user-agent=Mozilla",
+        "link": "https://ghostinpixels.s3.us-east-1.amazonaws.com/f1.m3u8",
+        "logo": "",
+        "title": "FORMULA 1 FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://bl.rutube.ru/livestream/5aa8c625a0bd70233234f7fb502ab395/index.m3u8?s=zkhiQGCNgRKaz7c2RtAMFQ&e=1791088138&scheme=https|user-agent=Mozilla",
         "logo": "",
         "title": "RUSSIA FEED",
         "type": "0"
       },
       {
-        "api": "1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08",
-        "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1790503662_f~0_g~1_s~bea341b8-3cf3-488e-8fe2-35c1516fc718_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~92c277b0e1fc705933a720ec2996cf6d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
-        "logo": "",
-        "title": "SKY F1 Italia [IT]",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b968989-eb20-4f90-bfaf-8f632a35ebe4/master.m3u8",
+        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/13b9ef82-ed1f-4ced-9797-e0e58389e137/master.m3u8",
         "logo": "",
         "title": "Sportscast FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28838",
+        "link": "https://netanjahu.hls.st/t/6e22d0b17fe601a9223192cdfed2339c/index.m3u8?|Referer=https://iplayer.is/",
         "logo": "",
-        "title": "DAZN ESPANOL [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/azerbaijan/race",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28836",
-        "logo": "",
-        "title": "APPLE TV [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28840",
-        "logo": "",
-        "title": "SKY ITALIA [FHD]",
+        "title": "DAZN SPORTS FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28842",
+        "link": "https://netanjahu.hls.st/t/a89b7ee991e4a03e066d91f63d46280d/index.m3u8?|Referer=https://iplayer.is/",
         "logo": "",
-        "title": "VIAPLAY NL [FHD]",
-        "type": "2"
+        "title": "ELEVEN SPORTS PL",
+        "type": "0"
       },
       {
         "api": "",
@@ -174,10 +180,52 @@
       },
       {
         "api": "",
-        "link": "http://193.47.62.59/hls/vlll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.41/hls/FEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
+      },
+      {
+        "api": "1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08",
+        "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791088034_f~0_g~1_s~2aa71a64-9a1e-470d-a104-24c2be9656fc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~dae629d427e5eb3f6d206f4c0586a1d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
+        "logo": "",
+        "title": "SKY F1 Italia [IT]",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29714",
+        "logo": "",
+        "title": "DAZN ESPANOL [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/f1/2026/bahrain/qualifying",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29712",
+        "logo": "",
+        "title": "APPLE TV [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29716",
+        "logo": "",
+        "title": "SKY ITALIA [FHD]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29718",
+        "logo": "",
+        "title": "VIAPLAY NL [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1097,38 +1145,77 @@
     "channel_status": "live"
   },
   {
-    "id": 50027,
-    "title": "Valkyries vs Dallas Wings",
+    "id": 50012,
+    "title": "Toronto Raptors",
     "image": "o",
-    "cat": "WNBA",
+    "cat": "NBA",
     "eventInfo": {
-      "teamA": "Valkyries",
-      "teamB": "Wings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "eventName": "Golden State Valkyries vs Dallas Wings",
+      "teamA": "Raptors",
+      "teamB": "Heat",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+      "eventName": "Toronto Raptors vs Miami Heat",
       "eventType": "null",
+      "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 01:00:00 +0000",
-      "endTime": "2026/10/03 03:45:00 +0000"
+      "startTime": "2026/10/03 23:00:00 +0000",
+      "endTime": "2026/10/04 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
-      "DUDE Tv WNBA",
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50027,
+    "title": "Dream vs New York Liberty",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Dream",
+      "teamB": "Liberty",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "eventName": "Atlanta Dream vs New York Liberty",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 18:00:00 +0000",
+      "endTime": "2026/10/04 20:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1140,31 +1227,209 @@
     ],
     "decoded_channels": [
       {
-        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57450/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv WNBA",
-        "type": "0"
-      },
-      {
         "api": "",
         "link": "https://edgestream1.pro/hls/cwxvbnfghq60.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/wnba/2026-10-02/dal-gs",
-        "logo": "",
         "title": "WNBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50032,
+    "title": "Cleveland Guardians",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Guardians",
+      "teamB": "White Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "eventName": "Cleveland Guardians vs Chicago White Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 17:00:00 +0000",
+      "endTime": "2026/10/03 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-10-01/phi-atl",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50033,
+    "title": "Los Angeles Dodgers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Dodgers",
+      "teamB": "Braves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "eventName": "Los Angeles Dodgers vs Atlanta Braves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 20:00:00 +0000",
+      "endTime": "2026/10/03 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-30/chw-hou",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50034,
+    "title": "Tampa Bay Rays",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rays",
+      "teamB": "Yankees",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "eventName": "Tampa Bay Rays vs New York Yankees",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/03 22:30:00 +0000",
+      "endTime": "2026/10/04 01:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-30/bos-nyy",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50052,
+    "title": "Milwaukee Brewers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Brewers",
+      "teamB": "Padres",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "eventName": "Milwaukee Brewers vs San Diego Padres",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 00:30:00 +0000",
+      "endTime": "2026/10/04 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-30/chc-sd",
+        "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
@@ -1176,22 +1441,21 @@
     "image": "o",
     "cat": "CFL",
     "eventInfo": {
-      "teamA": "Saskatchewan",
-      "teamB": "Calgary",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4433/image",
-      "eventName": "Saskatchewan Roughriders vs Calgary Stampeders",
+      "teamA": "Toronto",
+      "teamB": "BC",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+      "eventName": "Toronto Argonauts vs BC Lions",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 01:30:00 +0000",
-      "endTime": "2026/10/03 04:30:00 +0000"
+      "startTime": "2026/10/03 19:00:00 +0000",
+      "endTime": "2026/10/03 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
-      "TSN5 SPORTS FHD",
-      "CFL LIVE HD",
+      "TSN3 SPORTS FHD",
       "CFL LIVE [FHD]"
     ],
     "formatsNew": [
@@ -1200,11 +1464,7 @@
         "logo": ""
       },
       {
-        "title": "TSN5 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "CFL LIVE HD",
+        "title": "TSN3 SPORTS FHD",
         "logo": ""
       },
       {
@@ -1216,28 +1476,18 @@
       {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
         "title": "TSN SPORTS FHD",
         "type": "1"
       },
       {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN5 SPORTS FHD",
+        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN3 SPORTS FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57432/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "CFL LIVE HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://embedindia.st/embed/cfl/2026-10-02/cgy-ssk",
-        "logo": "",
         "title": "CFL LIVE [FHD]",
         "type": "2"
       }
@@ -1245,60 +1495,49 @@
     "channel_status": "live"
   },
   {
-    "id": 50061,
-    "title": "Bangladesh vs Sri Lanka",
+    "id": 50055,
+    "title": "Valkyries vs Las Vegas Aces",
     "image": "o",
-    "cat": "Asian Games",
+    "cat": "WNBA",
     "eventInfo": {
-      "teamA": "BAN",
-      "teamB": "SL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-      "eventName": "Bangladesh vs Sri Lanka",
+      "teamA": "Valkyries",
+      "teamB": "Aces",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "eventName": "Golden State Valkyries vs Las Vegas Aces",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 00:00:00 +0000",
-      "endTime": "2026/10/03 03:45:00 +0000"
+      "startTime": "2026/10/04 20:00:00 +0000",
+      "endTime": "2026/10/04 22:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SonyLiv (ENG)"
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv (ENG)",
+        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd",
-        "title": "WILLOW - ALT",
-        "type": "1"
+        "api": "",
+        "link": "https://edgestream4.pro/hls/cwxvbnfghq60.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791028718~acl=/*~id=81585395385558628811222667147515~hmac=f5e2a8f4eba79de3d48c27901541137b5c6e3f91a0bdf3e3edd82ae94ff122c3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-        "title": "SonyLiv (ENG)",
-        "type": "0"
+        "link": "https://embedindia.st/embed/wnba/2026-10-01/ind-lv",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1395,26 +1634,31 @@
     "image": "o",
     "cat": "CFL",
     "eventInfo": {
-      "teamA": "Ottawa",
-      "teamB": "Hamilton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4441/image",
-      "eventName": "Ottawa Redblacks vs Hamilton Tiger-Cats",
+      "teamA": "Montréal",
+      "teamB": "Winnipeg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4435/image",
+      "eventName": "Montreal Alouettes vs Winnipeg Blue Bombers",
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 23:00:00 +0000",
-      "endTime": "2026/10/03 02:00:00 +0000"
+      "startTime": "2026/10/03 23:00:00 +0000",
+      "endTime": "2026/10/04 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "TSN SPORTS FHD",
+      "TSN5 SPORTS FHD",
       "CFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS FHD",
         "logo": ""
       },
       {
@@ -1424,16 +1668,20 @@
     ],
     "decoded_channels": [
       {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS FHD",
+        "title": "TSN5 SPORTS FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/cfl/2026-10-02/ham-ott",
-        "logo": "",
         "title": "CFL LIVE [FHD]",
         "type": "2"
       }
@@ -1492,32 +1740,27 @@
   },
   {
     "id": 50075,
-    "title": "Red Wings vs Rangers",
+    "title": "Philadelphia Flyers vs Hurricanes",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Red Wings",
-      "teamB": "Rangers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-      "eventName": "Detroit Red Wings vs New York Rangers",
+      "teamA": "Flyers",
+      "teamB": "Hurricanes",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+      "eventName": "Philadelphia Flyers vs Carolina Hurricanes",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 22:30:00 +0000",
-      "endTime": "2026/10/03 01:30:00 +0000"
+      "startTime": "2026/10/03 23:00:00 +0000",
+      "endTime": "2026/10/04 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1529,23 +1772,14 @@
     ],
     "decoded_channels": [
       {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS FHD",
-        "type": "1"
-      },
-      {
         "api": "",
         "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-02/nyr-det",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1554,19 +1788,19 @@
   },
   {
     "id": 50076,
-    "title": "Hurricanes vs Washington Capitals",
+    "title": "Penguins vs Montréal Canadiens",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Hurricanes",
-      "teamB": "Capitals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-      "eventName": "Carolina Hurricanes vs Washington Capitals",
+      "teamA": "Penguins",
+      "teamB": "Canadiens",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+      "eventName": "Pittsburgh Penguins vs Montréal Canadiens",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 23:00:00 +0000",
-      "endTime": "2026/10/03 02:00:00 +0000"
+      "startTime": "2026/10/03 23:00:00 +0000",
+      "endTime": "2026/10/04 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1586,67 +1820,45 @@
     ],
     "decoded_channels": [
       {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://edgestream4.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
+        "link": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-01/phi-nj",
+        "link": "https://embedindia.st/embed/nhl/2026-10-02/wsh-car",
         "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50077,
-    "title": "Winnipeg Jets vs Boston Bruins",
+    "title": "Lightning vs Washington Capitals",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Jets",
-      "teamB": "Bruins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-      "eventName": "Winnipeg Jets vs Boston Bruins",
+      "teamA": "Lightning",
+      "teamB": "Capitals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+      "eventName": "Tampa Bay Lightning vs Washington Capitals",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 00:00:00 +0000",
-      "endTime": "2026/10/03 03:00:00 +0000"
+      "startTime": "2026/10/03 23:00:00 +0000",
+      "endTime": "2026/10/04 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS FHD",
-      "TSN SPORTS FHD",
-      "SortzX NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "SortzX NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1693,36 +1905,31 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50078,
-    "title": "Dallas Stars vs St. Louis Blues",
+    "title": "Maple Leafs vs Ottawa Senators",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Stars",
-      "teamB": "Blues",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-      "eventName": "Dallas Stars vs St. Louis Blues",
+      "teamA": "Maple Leafs",
+      "teamB": "Senators",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+      "eventName": "Toronto Maple Leafs vs Ottawa Senators",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 01:00:00 +0000",
-      "endTime": "2026/10/03 04:00:00 +0000"
+      "startTime": "2026/10/03 23:00:00 +0000",
+      "endTime": "2026/10/04 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1735,22 +1942,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57451/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-02/stl-dal",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1759,32 +1957,27 @@
   },
   {
     "id": 50079,
-    "title": "Golden Knights vs Anaheim Ducks",
+    "title": "Islanders vs New Jersey Devils",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Golden Knights",
-      "teamB": "Ducks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-      "eventName": "Vegas Golden Knights vs Anaheim Ducks",
+      "teamA": "Islanders",
+      "teamB": "Devils",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+      "eventName": "New York Islanders vs New Jersey Devils",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 02:00:00 +0000",
-      "endTime": "2026/10/03 05:00:00 +0000"
+      "startTime": "2026/10/03 23:30:00 +0000",
+      "endTime": "2026/10/04 02:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1797,22 +1990,257 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57452/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream6.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-02/ana-vgk",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50080,
+    "title": "Minnesota Wild vs Boston Bruins",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Wild",
+      "teamB": "Bruins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+      "eventName": "Minnesota Wild vs Boston Bruins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 00:00:00 +0000",
+      "endTime": "2026/10/04 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream4.pro/hls/sdezqfza55.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nhl/2026-10-01/chi-uta",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50081,
+    "title": "Nashville Predators vs Dallas Stars",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Predators",
+      "teamB": "Stars",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+      "eventName": "Nashville Predators vs Dallas Stars",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 00:00:00 +0000",
+      "endTime": "2026/10/04 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/poiryezafv56.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nhl/2026-10-01/fla-sj",
+        "logo": "",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50082,
+    "title": "Avalanche vs St. Louis Blues",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Avalanche",
+      "teamB": "Blues",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+      "eventName": "Colorado Avalanche vs St. Louis Blues",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 01:00:00 +0000",
+      "endTime": "2026/10/04 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nhl/2026-10-01/edm-van",
+        "title": "NHL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50083,
+    "title": "San Jose Sharks vs Kings",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Sharks",
+      "teamB": "Kings",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+      "eventName": "San Jose Sharks vs Los Angeles Kings",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 02:00:00 +0000",
+      "endTime": "2026/10/04 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-26/stl-mil",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50084,
+    "title": "Canucks vs Calgary Flames",
+    "image": "o",
+    "cat": "NHL",
+    "eventInfo": {
+      "teamA": "Canucks",
+      "teamB": "Flames",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+      "eventName": "Vancouver Canucks vs Calgary Flames",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 02:00:00 +0000",
+      "endTime": "2026/10/04 05:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NHL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NHL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -1831,7 +2259,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
       "eventName": "Pakistan vs India",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/03 04:30:00 +0000",
       "endTime": "2026/10/03 08:15:00 +0000"
     },
@@ -1878,50 +2306,50 @@
     ],
     "decoded_channels": [
       {
-        "api": "b1284bfb80f33cfc4fc21c3f79208454:edf2e5b9c98351bdda6d225ebb550b4d",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f4iqzphbkt/out/v1/4dab35c4a4eb466a995e927ee019934e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "3f8fc6e2e3be85523604a1f8fd46e227:f32f8de160db442f0fe2248e8de052d9",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzok2ls3uu/out/v1/0ad7f4cfca624501a737fce44ac1805c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd",
+        "api": "e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d6zz1cyw70/out/v1/a05e0b3952fe4421a28515ca7a95261f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
         "logo": "",
         "title": "SonyLiv - English",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0110/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
         "logo": "",
         "title": "SonyLiv - Hindi",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0110/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
         "logo": "",
         "title": "SonyLiv - Tamil",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0110/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
         "logo": "",
         "title": "SonyLiv - Telugu",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0110/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
         "logo": "",
         "title": "SonyLiv - Kannada",
         "type": "0"
@@ -1931,34 +2359,29 @@
   },
   {
     "id": 50086,
-    "title": "São Paulo vs Santos",
+    "title": "Atlético Mineiro vs RB Bragantino",
     "image": "o",
     "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "São Paulo",
-      "teamB": "Santos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-      "eventName": "São Paulo vs Santos",
+      "teamA": "Atlético-MG",
+      "teamB": "RB Bragantino",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+      "eventName": "Atlético Mineiro vs RB Bragantino",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/02 23:00:00 +0000",
-      "endTime": "2026/10/03 01:05:00 +0000"
+      "startTime": "2026/10/03 21:30:00 +0000",
+      "endTime": "2026/10/03 23:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SporTV BR FHD",
-      "PREMIERE BR FHD",
+      "PREMIERER BR FHD",
       "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "SporTV BR FHD",
-        "logo": ""
-      },
-      {
-        "title": "PREMIERE BR FHD",
+        "title": "PREMIERER BR FHD",
         "logo": ""
       },
       {
@@ -1968,15 +2391,9 @@
     ],
     "decoded_channels": [
       {
-        "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "SporTV BR FHD",
-        "type": "1"
-      },
-      {
         "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIERE BR FHD",
+        "title": "PREMIERER BR FHD",
         "type": "1"
       },
       {
@@ -2038,33 +2455,28 @@
   },
   {
     "id": 50093,
-    "title": "Colombia vs Paraguay",
+    "title": "USA vs Mexico",
     "image": "o",
     "cat": "FIFA Friendlies",
     "eventInfo": {
-      "teamA": "Colombia",
-      "teamB": "Paraguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4820/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-      "eventName": "Colombia vs Paraguay",
+      "teamA": "USA",
+      "teamB": "Mexico",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+      "eventName": "USA vs Mexico",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 00:00:00 +0000",
-      "endTime": "2026/10/03 02:00:00 +0000"
+      "startTime": "2026/10/04 02:00:00 +0000",
+      "endTime": "2026/10/04 04:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TyC Sports HD",
-      "HD SERVER"
+      "CANAL5 FHD"
     ],
     "formatsNew": [
       {
-        "title": "TyC Sports HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
+        "title": "CANAL5 FHD",
         "logo": ""
       }
     ],

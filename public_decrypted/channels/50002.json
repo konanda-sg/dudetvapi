@@ -1,5 +1,12 @@
 [
   {
+    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+    "title": "TSN SPORTS FHD",
+    "type": "1"
+  },
+  {
     "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
@@ -22,59 +29,38 @@
   },
   {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/eeec6e731c8eef4ef634e1e849851305/index.m3u8?s=ZNvIrq2OqRyB8JkqkqRkng&e=1791014234&scheme=https|user-agent=Mozilla",
+    "link": "https://ghostinpixels.s3.us-east-1.amazonaws.com/f1.m3u8",
+    "logo": "",
+    "title": "FORMULA 1 FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://bl.rutube.ru/livestream/5aa8c625a0bd70233234f7fb502ab395/index.m3u8?s=zkhiQGCNgRKaz7c2RtAMFQ&e=1791088138&scheme=https|user-agent=Mozilla",
     "logo": "",
     "title": "RUSSIA FEED",
     "type": "0"
   },
   {
-    "api": "1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08",
-    "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1790503662_f~0_g~1_s~bea341b8-3cf3-488e-8fe2-35c1516fc718_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~92c277b0e1fc705933a720ec2996cf6d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
-    "logo": "",
-    "title": "SKY F1 Italia [IT]",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b968989-eb20-4f90-bfaf-8f632a35ebe4/master.m3u8",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/13b9ef82-ed1f-4ced-9797-e0e58389e137/master.m3u8",
     "logo": "",
     "title": "Sportscast FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28838",
+    "link": "https://netanjahu.hls.st/t/6e22d0b17fe601a9223192cdfed2339c/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
-    "title": "DAZN ESPANOL [FHD]",
-    "type": "2"
-  },
-  {
-    "api": "",
-    "link": "https://embedindia.st/embed/f1/2026/azerbaijan/race",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-    "title": "SKY SPORTS [FHD]",
-    "type": "2"
-  },
-  {
-    "api": "",
-    "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28836",
-    "logo": "",
-    "title": "APPLE TV [FHD]",
-    "type": "2"
-  },
-  {
-    "api": "",
-    "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28840",
-    "logo": "",
-    "title": "SKY ITALIA [FHD]",
+    "title": "DAZN SPORTS FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/azerbaijan-grand-prix---race-28842",
+    "link": "https://netanjahu.hls.st/t/a89b7ee991e4a03e066d91f63d46280d/index.m3u8?|Referer=https://iplayer.is/",
     "logo": "",
-    "title": "VIAPLAY NL [FHD]",
-    "type": "2"
+    "title": "ELEVEN SPORTS PL",
+    "type": "0"
   },
   {
     "api": "",
@@ -85,9 +71,51 @@
   },
   {
     "api": "",
-    "link": "http://193.47.62.59/hls/vlll.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.41/hls/FEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER",
     "type": "0"
+  },
+  {
+    "api": "1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08",
+    "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791088034_f~0_g~1_s~2aa71a64-9a1e-470d-a104-24c2be9656fc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~dae629d427e5eb3f6d206f4c0586a1d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
+    "logo": "",
+    "title": "SKY F1 Italia [IT]",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29714",
+    "logo": "",
+    "title": "DAZN ESPANOL [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/f1/2026/bahrain/qualifying",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "title": "SKY SPORTS [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29712",
+    "logo": "",
+    "title": "APPLE TV [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29716",
+    "logo": "",
+    "title": "SKY ITALIA [FHD]",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29718",
+    "logo": "",
+    "title": "VIAPLAY NL [FHD]",
+    "type": "2"
   }
 ]

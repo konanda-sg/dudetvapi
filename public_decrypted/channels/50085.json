@@ -1,49 +1,49 @@
 [
   {
-    "api": "b1284bfb80f33cfc4fc21c3f79208454:edf2e5b9c98351bdda6d225ebb550b4d",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f4iqzphbkt/out/v1/4dab35c4a4eb466a995e927ee019934e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "3f8fc6e2e3be85523604a1f8fd46e227:f32f8de160db442f0fe2248e8de052d9",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzok2ls3uu/out/v1/0ad7f4cfca624501a737fce44ac1805c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
   },
   {
-    "api": "939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd",
+    "api": "e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d6zz1cyw70/out/v1/a05e0b3952fe4421a28515ca7a95261f/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040229~acl=/*~id=42537851556517608958490642516291~hmac=44cf7d9acee7488c1135f53bd1549c251803b4abdf862ef2fcec0e5699011c50|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
     "logo": "",
     "title": "SonyLiv - English",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0110/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
     "logo": "",
     "title": "SonyLiv - Hindi",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0110/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
     "logo": "",
     "title": "SonyLiv - Tamil",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0110/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
     "logo": "",
     "title": "SonyLiv - Telugu",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0110/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
     "logo": "",
     "title": "SonyLiv - Kannada",
     "type": "0"

@@ -12,9 +12,9 @@
       "eventName": "Formula 1 -  BAHRAIN GRAND PRIX IN MALAYSIA",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/hzwmw",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/10/04 06:55:00 +0000",
-      "endTime": "2026/10/04 08:15:00 +0000"
+      "endTime": "2026/10/04 10:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -28,7 +28,7 @@
       "FORMULA 1 FHD",
       "RUSSIA FEED",
       "Sportscast FHD",
-      "DAZN SPORTS FHD",
+      "SKY SPORTS DE",
       "ELEVEN SPORTS PL",
       "SKY SPORTS HD",
       "SD SERVER",
@@ -77,7 +77,7 @@
         "logo": ""
       },
       {
-        "title": "DAZN SPORTS FHD",
+        "title": "SKY SPORTS DE",
         "logo": ""
       },
       {
@@ -119,15 +119,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "7b093b15b677c732d99e94e4e7a7dc3f:a16ef774c00333b13c0572da8d13a3d3",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ttmfhg11yd/out/v1/de59f982be774908a518a2458751a52c/cenc.mpd",
+        "api": "5734bfc9aca5e8e478c98f0617ae56f7:b24ed75de070e35c154feeb68fc21e57",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iryr4nfnvz/out/v1/56a65d76a55e49ffa4ac4669a8f9cf26/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "SKY SPORTS FHD",
         "type": "1"
       },
       {
-        "api": "22ab68dce16cc62dbdbf61a93fe9455e:5266d40464a632a3e6069ce8ccdab36c",
-        "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jmkhzvjref/out/v1/33df23745a174bb1811fc2f96e900b08/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "ad6abbc0c6e35344580087ef6a3fbf3b:cfff2c2e7ea9def66448406eef1911e9",
+        "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/qg95ap2ngd/out/v1/351af353038c4a05af277388f24c4f8c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "APPLE TV FHD",
         "type": "1"
@@ -162,35 +162,35 @@
       },
       {
         "api": "",
-        "link": "https://ghostinpixels.s3.us-east-1.amazonaws.com/f1.m3u8",
+        "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
         "logo": "",
         "title": "FORMULA 1 FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://bl.rutube.ru/livestream/d99bbd05aea1c0084c640e5dd9851834/index.m3u8?s=ho-OlNZ8a-rYHUEfg_0MeQ&e=1791100384&scheme=https|user-agent=Mozilla",
+        "link": "https://bl.rutube.ru/livestream/6f720c31786abeb7fd11f847db8a2084/index.m3u8?s=XHCTvH12_MBnBEkLnZ-k5g&e=1791182503&scheme=https|user-agent=Mozilla",
         "logo": "",
         "title": "RUSSIA FEED",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e77cab6d-7a9e-4baa-abab-2c70e51149dd/master.m3u8",
+        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5cd3615-4d73-4b1b-b368-204f9d6ddad5/master.m3u8",
         "logo": "",
         "title": "Sportscast FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://netanjahu.hls.st/t/d7e2d00b5b21655224ed97d8a52a7e68/index.m3u8?|Referer=https://iplayer.is/",
+        "link": "https://netanjahu.hls.st/t/a304b0a7b4765ba0312de32326c4a99c/index.m3u8?|Referer=https://iplayer.is/",
         "logo": "",
-        "title": "DAZN SPORTS FHD",
+        "title": "SKY SPORTS DE",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://netanjahu.hls.st/t/33999099267acc06e541fb62fa3c3cd3/index.m3u8?|Referer=https://iplayer.is/",
+        "link": "https://netanjahu.hls.st/t/adb57217346ee4d7cbc072c94d0de6e5/index.m3u8?|Referer=https://iplayer.is/",
         "logo": "",
         "title": "ELEVEN SPORTS PL",
         "type": "0"
@@ -204,49 +204,49 @@
       },
       {
         "api": "",
-        "link": "http://193.47.62.41/hls/FEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.55/hls/fvvvv.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
       },
       {
         "api": "1118a6477fbf274ef4ab397ae762cb61:31ba7c00dc9667233ecb2a6e7e24ee08",
-        "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791088034_f~0_g~1_s~2aa71a64-9a1e-470d-a104-24c2be9656fc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~dae629d427e5eb3f6d206f4c0586a1d8/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
+        "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1791184112_f~0_g~1_s~0d5cf2cf-1b2c-4d75-b1f8-7170d2be18c2_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~70_x~551e4bc3580ed531c98b15668319162e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(GmNkZkEhHwZyLEqoafQKOFLW)/master_2hr-all.mpd",
         "logo": "",
         "title": "SKY F1 Italia [IT]",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29714",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29723",
         "logo": "",
         "title": "DAZN ESPANOL [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/bahrain/qualifying",
+        "link": "https://embedindia.st/embed/f1/2026/bahrain/race",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29712",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29721",
         "logo": "",
         "title": "APPLE TV [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29716",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29725",
         "logo": "",
         "title": "SKY ITALIA [FHD]",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/bahrain-grand-prix---qualifying-29718",
+        "link": "https://embedindia.st/embed/bahrain-grand-prix---race-29727",
         "logo": "",
         "title": "VIAPLAY NL [FHD]",
         "type": "2"
@@ -1146,38 +1146,28 @@
   },
   {
     "id": 50012,
-    "title": "Toronto Raptors",
+    "title": "Denver Nuggets vs Utah Jazz",
     "image": "o",
     "cat": "NBA",
     "eventInfo": {
-      "teamA": "Raptors",
-      "teamB": "Heat",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-      "eventName": "Toronto Raptors vs Miami Heat",
+      "teamA": "Nuggets",
+      "teamB": "Jazz",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+      "eventName": "Denver Nuggets vs Utah Jazz",
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/04 23:00:00 +0000",
+      "endTime": "2026/10/05 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
-      "DUDE Tv NBA HD",
       "DUDE Tv Live",
       "NBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "DUDE Tv NBA HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1189,30 +1179,14 @@
     ],
     "decoded_channels": [
       {
-        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57220/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NBA HD",
-        "type": "0"
-      },
-      {
         "api": "",
         "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nba/2026-10-03/mia-tor",
-        "logo": "",
         "title": "NBA LIVE [FHD]",
         "type": "2"
       }
@@ -1221,7 +1195,7 @@
   },
   {
     "id": 50027,
-    "title": "Dream vs New York Liberty",
+    "title": "Atlanta Dream vs New York Liberty",
     "image": "o",
     "cat": "WNBA",
     "eventInfo": {
@@ -1268,36 +1242,90 @@
     "channel_status": "live"
   },
   {
-    "id": 50034,
-    "title": "Tampa Bay Rays",
+    "id": 50032,
+    "title": "Milwaukee Brewers",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Rays",
-      "teamB": "Yankees",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "eventName": "Tampa Bay Rays vs New York Yankees",
+      "teamA": "Brewers",
+      "teamB": "Padres",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "eventName": "Milwaukee Brewers vs San Diego Padres",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 22:30:00 +0000",
-      "endTime": "2026/10/04 01:30:00 +0000"
+      "startTime": "2026/10/04 20:00:00 +0000",
+      "endTime": "2026/10/04 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS FHD",
-      "DUDE Tv MLB HD",
+      "FOX SPORTS FHD",
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FOX SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-10-01/phi-atl",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50033,
+    "title": "Los Angeles Dodgers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Dodgers",
+      "teamB": "Braves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "eventName": "Los Angeles Dodgers vs Atlanta Braves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/05 00:00:00 +0000",
+      "endTime": "2026/10/05 03:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "DUDE Tv MLB HD",
+        "title": "FOX SPORTS FHD",
         "logo": ""
       },
       {
@@ -1311,30 +1339,20 @@
     ],
     "decoded_channels": [
       {
-        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT SPORTS FHD",
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FOX SPORTS FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57515/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream5.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
+        "link": "https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-10-03/nyy-tb",
-        "logo": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-30/chw-hou",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1390,104 +1408,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50052,
-    "title": "Milwaukee Brewers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Brewers",
-      "teamB": "Padres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "eventName": "Milwaukee Brewers vs San Diego Padres",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/04 00:30:00 +0000",
-      "endTime": "2026/10/04 03:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS FHD",
-      "FOX DEPORTES",
-      "DUDE Tv MLB HD",
-      "MLB LIVE HD",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv MLB HD",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-        "title": "FOX SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX DEPORTES",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57543/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://digitalnoodle.s3.us-east-1.amazonaws.com/padres.m3u8",
-        "logo": "",
-        "title": "MLB LIVE HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-10-03/sd-mil",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50055,
     "title": "Valkyries vs Las Vegas Aces",
     "image": "o",
@@ -1531,6 +1451,75 @@
         "link": "https://embedindia.st/embed/wnba/2026-10-01/ind-lv",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50056,
+    "title": "Clippers vs Warriors",
+    "image": "o",
+    "cat": "NBA",
+    "eventInfo": {
+      "teamA": "Clippers",
+      "teamB": "Warriors",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+      "eventName": "Los Angeles Clippers vs Golden State Warriors",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/10/04 23:00:00 +0000",
+      "endTime": "2026/10/05 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/wxdaztfhd62.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-09-27/wsh-atl",
+        "title": "NBA LIVE [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
+        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
+        "logo": "",
+        "title": "WILLOW FHD [Ad-Free]",
+        "type": "1"
+      },
+      {
+        "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+      },
+      {
+        "api": "MDg0YmVlNzA3NDk3OTk2MTU4ZTRlYzZkOWNhZDQwZTQ6MmViOTgwNzFiZjhjMDA2ZWY4YjVhNXU4Nz41MWQ4NDM=",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW SD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -1617,81 +1606,6 @@
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50063,
-    "title": "[OLD] Zuffa Boxing 11",
-    "image": "o",
-    "cat": "CFL",
-    "eventInfo": {
-      "teamA": "Montréal",
-      "teamB": "Winnipeg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4435/image",
-      "eventName": "Montreal Alouettes vs Winnipeg Blue Bombers",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS FHD",
-      "TSN5 SPORTS FHD",
-      "CFL LIVE HD",
-      "CFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TSN5 SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "CFL LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "CFL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN5 SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57529/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "CFL LIVE HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/cfl/2026-10-03/wpg-mtl",
-        "logo": "",
-        "title": "CFL LIVE [FHD]",
-        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2597,8 +2511,8 @@
     "eventInfo": {
       "teamA": "WCL",
       "teamB": "WCL",
-      "teamAFlag": "images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
-      "teamBFlag": "images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
+      "teamAFlag": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png",
+      "teamBFlag": "https://images.fancode.com/skillup-uploads/cms-media/WCL-Tour-Logo.png",
       "eventName": "World Championship of Legends",
       "eventType": "null",
       "isHot": "0",
@@ -2703,32 +2617,27 @@
   },
   {
     "id": 50075,
-    "title": "Philadelphia Flyers vs Hurricanes",
+    "title": "Red Wings vs Winnipeg Jets",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Flyers",
-      "teamB": "Hurricanes",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-      "eventName": "Philadelphia Flyers vs Carolina Hurricanes",
+      "teamA": "Red Wings",
+      "teamB": "Jets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+      "eventName": "Detroit Red Wings vs Winnipeg Jets",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/04 17:00:00 +0000",
+      "endTime": "2026/10/04 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2741,22 +2650,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57519/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream5.pro/hls/bnvcxwhfg54.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-03/car-phi",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2765,32 +2665,27 @@
   },
   {
     "id": 50076,
-    "title": "Penguins vs Montréal Canadiens",
+    "title": "Rangers vs Utah Mammoth",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Penguins",
-      "teamB": "Canadiens",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-      "eventName": "Pittsburgh Penguins vs Montréal Canadiens",
+      "teamA": "Rangers",
+      "teamB": "Mammoth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+      "eventName": "New York Rangers vs Utah Mammoth",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/04 22:00:00 +0000",
+      "endTime": "2026/10/05 01:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2803,22 +2698,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57516/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-03/mtl-pit",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2827,32 +2713,27 @@
   },
   {
     "id": 50077,
-    "title": "Lightning vs Washington Capitals",
+    "title": "Anaheim Ducks vs Florida Panthers",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Lightning",
-      "teamB": "Capitals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-      "eventName": "Tampa Bay Lightning vs Washington Capitals",
+      "teamA": "Ducks",
+      "teamB": "Panthers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+      "eventName": "Anaheim Ducks vs Florida Panthers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/05 00:00:00 +0000",
+      "endTime": "2026/10/05 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2865,22 +2746,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57523/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-03/wsh-tb",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
       }
@@ -2889,32 +2761,27 @@
   },
   {
     "id": 50078,
-    "title": "Maple Leafs vs Ottawa Senators",
+    "title": "Seattle Kraken vs Calgary Flames",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Maple Leafs",
-      "teamB": "Senators",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-      "eventName": "Toronto Maple Leafs vs Ottawa Senators",
+      "teamA": "Kraken",
+      "teamB": "Flames",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+      "eventName": "Seattle Kraken vs Calgary Flames",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/05 00:00:00 +0000",
+      "endTime": "2026/10/05 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2947,36 +2814,31 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50079,
-    "title": "Islanders vs New Jersey Devils",
+    "title": "Vancouver Canucks vs Knights",
     "image": "o",
     "cat": "NHL",
     "eventInfo": {
-      "teamA": "Islanders",
-      "teamB": "Devils",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-      "eventName": "New York Islanders vs New Jersey Devils",
+      "teamA": "Canucks",
+      "teamB": "Golden Knights",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+      "eventName": "Vancouver Canucks vs Vegas Golden Knights",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:30:00 +0000",
-      "endTime": "2026/10/04 02:30:00 +0000"
+      "startTime": "2026/10/05 01:00:00 +0000",
+      "endTime": "2026/10/05 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
       "NHL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2989,530 +2851,48 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57536/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream1.pro/hls/rzavbdyua57.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nhl/2026-10-03/nj-nyi",
-        "logo": "",
         "title": "NHL LIVE [FHD]",
         "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50080,
-    "title": "Minnesota Wild vs Boston Bruins",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Wild",
-      "teamB": "Bruins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-      "eventName": "Minnesota Wild vs Boston Bruins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/04 00:00:00 +0000",
-      "endTime": "2026/10/04 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NHL HD",
-      "NHL LIVE HD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57538/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://digitalnoodle.s3.us-east-1.amazonaws.com/bruins.m3u8",
-        "logo": "",
-        "title": "NHL LIVE HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream5.pro/hls/earzfddshg58.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-03/bos-min",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50081,
-    "title": "Nashville Predators vs Dallas Stars",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Predators",
-      "teamB": "Stars",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-      "eventName": "Nashville Predators vs Dallas Stars",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/04 00:00:00 +0000",
-      "endTime": "2026/10/04 03:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NHL HD",
-      "NHL LIVE HD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57541/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://digitalnoodle.s3.us-east-1.amazonaws.com/stars.m3u8",
-        "logo": "",
-        "title": "NHL LIVE HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream4.pro/hls/bvnzadfvyt59.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-03/dal-nsh",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50082,
-    "title": "Avalanche vs St. Louis Blues",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Avalanche",
-      "teamB": "Blues",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-      "eventName": "Colorado Avalanche vs St. Louis Blues",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/04 01:00:00 +0000",
-      "endTime": "2026/10/04 04:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NHL HD",
-      "NHL LIVE FHD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57545/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://digitalnoodle.s3.us-east-1.amazonaws.com/avalanche.m3u8",
-        "logo": "",
-        "title": "NHL LIVE FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/cwxvbnfghq60.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-03/stl-col",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50083,
-    "title": "San Jose Sharks vs Kings",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Sharks",
-      "teamB": "Kings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-      "eventName": "San Jose Sharks vs Los Angeles Kings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/04 02:00:00 +0000",
-      "endTime": "2026/10/04 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NHL HD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57550/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream4.pro/hls/wxdaztfhd62.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-03/la-sj",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50084,
-    "title": "Canucks vs Calgary Flames",
-    "image": "o",
-    "cat": "NHL",
-    "eventInfo": {
-      "teamA": "Canucks",
-      "teamB": "Flames",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-      "eventName": "Vancouver Canucks vs Calgary Flames",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/04 02:00:00 +0000",
-      "endTime": "2026/10/04 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS FHD",
-      "DUDE Tv NHL HD",
-      "DUDE Tv Live",
-      "NHL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NHL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57551/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NHL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream5.pro/hls/gfhfgsqda61.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nhl/2026-10-03/cgy-van",
-        "logo": "",
-        "title": "NHL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50093,
-    "title": "USA vs Mexico",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "USA",
-      "teamB": "Mexico",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-      "eventName": "USA vs Mexico",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/10/04 02:00:00 +0000",
-      "endTime": "2026/10/04 04:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD",
-      "NBC UNIVERSO [USA]",
-      "ESPN AR FHD",
-      "Tru TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "ESPN BR SD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      },
-      {
-        "title": "NBC UNIVERSO [USA]",
-        "logo": ""
-      },
-      {
-        "title": "ESPN AR FHD",
-        "logo": ""
-      },
-      {
-        "title": "Tru TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "ESPN BR SD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CANAL5 FHD",
-        "type": "1"
-      },
-      {
-        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-        "logo": "",
-        "title": "NBC UNIVERSO [USA]",
-        "type": "1"
-      },
-      {
-        "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-        "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-        "logo": "",
-        "title": "ESPN AR FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/57553/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "Tru TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo155.com/live/hd-en-1-4650101.m3u8?txSecret=09b15db7840efab233329a6a37b50926&txTime=6AC1C85D|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.rtmpcdn.com/live/b97b626a-b2ec-4870-bae2-76507fc266b8.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/tllllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "ESPN BR SD",
-        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50094,
-    "title": "Buffalo Sabres vs Blackhawks",
+    "title": "Ravens vs Tennessee Titans",
     "image": "o",
-    "cat": "NHL",
+    "cat": "NFL",
     "eventInfo": {
-      "teamA": "Sabres",
-      "teamB": "Blackhawks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-      "eventName": "Buffalo Sabres vs Chicago Blackhawks",
+      "teamA": "Ravens",
+      "teamB": "Titans",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4431/image",
+      "eventName": "Baltimore Ravens vs Tennessee Titans",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/04 17:00:00 +0000",
+      "endTime": "2026/10/04 20:20:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NHL LIVE HD",
       "DUDE Tv Live",
-      "NHL LIVE [FHD]"
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "NHL LIVE HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -3534,38 +2914,33 @@
   },
   {
     "id": 50095,
-    "title": "Blue Jackets vs Utah Mammoth",
+    "title": "Buffalo Bills vs Patriots",
     "image": "o",
-    "cat": "NHL",
+    "cat": "NFL",
     "eventInfo": {
-      "teamA": "Blue Jackets",
-      "teamB": "Mammoth",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-      "eventName": "Columbus Blue Jackets vs Utah Mammoth",
+      "teamA": "Bills",
+      "teamB": "Patriots",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
+      "eventName": "Buffalo Bills vs New England Patriots",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/04 17:00:00 +0000",
+      "endTime": "2026/10/04 20:20:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
-      "NHL LIVE [FHD]"
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -3587,38 +2962,33 @@
   },
   {
     "id": 50096,
-    "title": "Edmonton Oilers vs Seattle Kraken",
+    "title": "Chicago Bears vs New York Jets",
     "image": "o",
-    "cat": "NHL",
+    "cat": "NFL",
     "eventInfo": {
-      "teamA": "Oilers",
-      "teamB": "Kraken",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-      "eventName": "Edmonton Oilers vs Seattle Kraken",
+      "teamA": "Bears",
+      "teamB": "Jets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4427/image",
+      "eventName": "Chicago Bears vs New York Jets",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/10/03 23:00:00 +0000",
-      "endTime": "2026/10/04 02:00:00 +0000"
+      "startTime": "2026/10/04 17:00:00 +0000",
+      "endTime": "2026/10/04 20:20:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NHL HD",
       "DUDE Tv Live",
-      "NHL LIVE [FHD]"
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NHL HD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "NHL LIVE [FHD]",
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ],

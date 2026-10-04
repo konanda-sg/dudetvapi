@@ -1,65 +1,51 @@
 [
   {
-    "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-    "title": "PREMIER SPORTS FHD",
+    "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "CANAL5 FHD",
     "type": "1"
   },
   {
-    "api": "1ced1db77f6e39140731919741766905:3839cb5482028a98076e5018946ae75c",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hyj3sw9urw/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd?aws_sessionId=c7fc7f05-9c20-4d68-b4a7-fec9137839a7|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
+    "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+    "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+    "logo": "",
+    "title": "NBC UNIVERSO [USA]",
     "type": "1"
   },
   {
-    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://iili.io/CFFRvqJ.png",
-    "title": "SporTV BR FHD",
+    "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+    "logo": "",
+    "title": "ESPN AR FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://la18hd.su/vivo/canales.php?stream=tycsports",
+    "link": "https://chatgpt.hereisman.net/playlist/57553/load-playlist?|Referer=https://gooz.aapmains.net",
     "logo": "",
-    "title": "TyC Sports HD",
-    "type": "2"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
+    "title": "Tru TV HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57387/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://iili.io/CFFRvqJ.png",
-    "title": "SporTV BR HD",
+    "link": "https://live.vivo155.com/live/hd-en-1-4650101.m3u8?txSecret=09b15db7840efab233329a6a37b50926&txTime=6AC1C85D|Referer=https://player.online909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live2.zundrixmediapipeline.com/live/channel21.m3u8",
+    "link": "https://www.rtmpcdn.com/live/b97b626a-b2ec-4870-bae2-76507fc266b8.m3u8",
     "logo": "",
     "title": "HD SERVER",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e",
+    "link": "http://193.47.62.41/hls/tllllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/ZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
+    "title": "ESPN BR SD",
     "type": "0"
   }
 ]

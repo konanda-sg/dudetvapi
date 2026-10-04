@@ -1,58 +1,14 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
-    "api": "ab38727c759aad968cb5b1648a627d28:ae095c19e2d24c5ae03ea482683be641",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/usddwmgjnp/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
-    "type": "1"
-  },
-  {
-    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-    "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-    "logo": "",
-    "title": "SPORT1 CZ - AQ",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57458/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "ITV SPORTS HD",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+    "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
-    "logo": "",
-    "title": "beIN ARABIC HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0dc1ad1e21d63d77b4a264dc8b6e9d16-1791041700513",
-    "logo": "",
-    "title": "SonyLiv (ASIA)",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD SERVER ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.50/hls/JYYYAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "link": "https://embedindia.st/embed/",
+    "title": "NFL LIVE [FHD]",
+    "type": "2"
   }
 ]

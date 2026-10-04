@@ -1,58 +1,8 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
+    "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "title": "beIN ENGLISH FHD",
     "type": "1"
-  },
-  {
-    "api": "62862225c7c2caacda0e8b2102620992:0f3a4b20516a6688d8326a7cc3eafa7d",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1qnmowm5ue/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd?aws_sessionId=4a78fdda-a60d-4be7-a91f-b5db2ff60270|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
-    "title": "ViX ESPANOL FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57453/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-    "title": "FOX SPORTS HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
-    "logo": "",
-    "title": "beIN ARABIC HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-    "logo": "",
-    "title": "HD SERVER ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/c6a03c84-16dd-4b81-9eed-7841f4bd150d.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ebc70f6b371a865fef17b70e269c9edb-1791030901542",
-    "logo": "",
-    "title": "SonyLiv ",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.44/hls/ZOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-    "logo": "",
-    "title": "LOW SERVER ",
-    "type": "0"
   }
 ]

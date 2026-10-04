@@ -12,7 +12,7 @@
       "eventName": "Formula 1 -  BAHRAIN GRAND PRIX IN MALAYSIA",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/hzwmw",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/10/04 06:55:00 +0000",
       "endTime": "2026/10/04 10:15:00 +0000"
     },
@@ -606,6 +606,70 @@
     ]
   },
   {
+    "id": 50023,
+    "title": "Garcia vs Benn",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "NFL",
+      "teamB": "REDZONE",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/9464/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/9464/image",
+      "eventName": "NFL REDZONE",
+      "eventType": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://tikolu.net/i/pmead",
+      "isHot": "0",
+      "startTime": "2026/10/04 17:00:00 +0000",
+      "endTime": "2026/10/05 00:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv NFL REDZONE",
+      "NFL REDZONE HD",
+      "SERVER 1 HD [USA]",
+      "SERVER 2 HD [USA]",
+      "SERVER 3 HD [USA]",
+      "NFL NETWORK HD",
+      "REDZONE [FHD]",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv NFL REDZONE",
+        "logo": ""
+      },
+      {
+        "title": "NFL REDZONE HD",
+        "logo": ""
+      },
+      {
+        "title": "SERVER 1 HD [USA]",
+        "logo": ""
+      },
+      {
+        "title": "SERVER 2 HD [USA]",
+        "logo": ""
+      },
+      {
+        "title": "SERVER 3 HD [USA]",
+        "logo": ""
+      },
+      {
+        "title": "NFL NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "REDZONE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50027,
     "title": "Atlanta Dream vs New York Liberty",
     "image": "o",
@@ -1015,7 +1079,8 @@
     "formats": [
       "WILLOW - FHD",
       "FANCODE FHD",
-      "WILLOW - ALT"
+      "WILLOW - ALT",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -1029,6 +1094,10 @@
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1746,19 +1815,54 @@
     "formats": [
       "FOX SPORTS FHD",
       "SporTV BR FHD",
-      "SPORT 1 CZ"
+      "ViX ESPANOL FHD",
+      "SPORT 1 CZ",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "beIN ARABIC HD",
+      "SonyLiv (Asia)",
+      "HD SERVER ",
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
-        "logo": ""
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
       },
       {
         "title": "SporTV BR FHD",
-        "logo": ""
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "ViX ESPANOL FHD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png"
       },
       {
         "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER ",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
@@ -1782,11 +1886,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv NFL HD",
+      "DUDE Tv NFL FHD",
+      "NFL LIVE [USA]",
+      "DUDE Tv Live",
+      "NFL NETWORK HD",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv NFL HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv NFL FHD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [USA]",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1838,11 +1967,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "PARAMOUNT+ FHD",
+      "CBS NETWORK",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1866,11 +2010,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1894,11 +2048,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1922,11 +2081,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1950,11 +2119,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2062,11 +2241,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      " Low Server"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": " Low Server",
         "logo": ""
       }
     ]
@@ -2090,11 +2269,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2174,11 +2358,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER "
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER ",
         "logo": ""
       }
     ]

@@ -1,44 +1,16 @@
 [
   {
-    "api": "e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+    "link": "?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "logo": "",
-    "title": "SKY CRICKET - FHD",
-    "type": "0"
-  },
-  {
-    "api": "e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - ALT",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/criclive2709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4109ebeb58107b229ea1db02ec2fbff0-1790499902207",
-    "logo": "",
-    "title": "SonyLiv",
+    "title": "DUDE Tv Live",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://papacito.cfd/m3u/now49499404/live.m3u8",
+    "link": "https://embedindia.st/embed/",
     "logo": "",
-    "title": "SKY CRICKET HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.55/hls/bbbbbAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW SERVER",
-    "type": "0"
+    "title": "NBA LIVE [FHD]",
+    "type": "2"
   }
 ]

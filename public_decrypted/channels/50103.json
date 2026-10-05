@@ -1,26 +1,37 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "beIN ENGLISH FHD",
+    "api": "89bb01e6f33e16df2a19bab2c26810d2:3e4c4ebd89e5579de57718d0989842b9",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qxeiiwhisf/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd?aws_sessionId=0dde4805-af58-4288-bda8-57615549b517|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
     "type": "1"
   },
   {
-    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "FOX SPORTS FHD",
-    "type": "1"
-  },
-  {
-    "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "title": "TVE La 1 FHD",
-    "type": "1"
-  },
-  {
-    "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+    "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://iili.io/CFFRvqJ.png",
     "title": "SporTV BR FHD",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/sd-1-4650114.m3u8?txSecret=981768187eb63db2793b405a5759ea17&txTime=6AC4013A|Referer=https://player.online909.com/",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Footlive0510/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ecf2de205e44c230b9b34314d63b2de3-1791223804377",
+    "logo": "",
+    "title": "SonyLiv (Asia)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/grrrA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
+    "type": "0"
   }
 ]

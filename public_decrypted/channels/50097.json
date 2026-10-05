@@ -1,8 +1,65 @@
 [
   {
+    "api": "28c3d421119a55b14dc4e6d01470f889:559dabdb071faff101f6b32b10f8af75",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/odfitsiipb/out/v1/fa02957f041942628a39265eaebd23cd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DAZN SPORTS - FHD",
+    "type": "1"
+  },
+  {
+    "api": "c8eb80251966923c99479dd79222f0bb:8097a9cce0c12d58956d1aeade10134e",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gurq5expmq/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd?aws_sessionId=3101894d-2a40-442b-9b3c-1eef26bad039|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/500px-ViX_Logo.svg.png",
+    "title": "ViX ESPANOL FHD",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+    "link": "https://chatgpt.hereisman.net/playlist/57642/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "BBC SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://live.vivo155.com/live/hd-en-1-4518042.m3u8?txSecret=cc69e0b10c52c27cd27b1b7a741f6879&txTime=6AC400E2|Referer=https://player.online909.com/",
+    "logo": "",
     "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/95375c3f41b931bca5a07cbd8b1749da/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "DAZN SPORTS FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/c39bfbc77e45e6f8ce7bb6e23692d797/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "Polsat Sports HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://edgestream3.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+    "logo": "",
+    "title": "HD SERVER",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Footlive0510/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ecf2de205e44c230b9b34314d63b2de3-1791223804377",
+    "logo": "",
+    "title": "SonyLiv (Asia)",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.50/hls/grrrAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]

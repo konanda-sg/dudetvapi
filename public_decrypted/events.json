@@ -1304,7 +1304,13 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
-      "FOX SPORTS FHD"
+      "FOX SPORTS FHD",
+      "FOX SPORTS HD",
+      "DUDE Tv Live",
+      "DAZN SPORTS FHD",
+      "Sport TV HD",
+      "HD SERVER",
+      "SD SERVER GRE"
     ],
     "formatsNew": [
       {
@@ -1313,6 +1319,30 @@
       },
       {
         "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER GRE",
         "logo": ""
       }
     ]
@@ -1374,95 +1404,6 @@
     ]
   },
   {
-    "id": 50104,
-    "title": "Uganda vs DR Congo",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Uganda",
-      "teamB": "DR Congo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4726/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
-      "eventName": "Uganda vs DR Congo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/05 13:00:00 +0000",
-      "endTime": "2026/10/05 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Japan vs New Zealand",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Japan",
-      "teamB": "New Zealand",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-      "eventName": "Japan vs New Zealand",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/05 10:30:00 +0000",
-      "endTime": "2026/10/05 12:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Ecuador vs Panama",
-    "image": "o",
-    "cat": "FIFA Friendlies",
-    "eventInfo": {
-      "teamA": "Ecuador",
-      "teamB": "Panama",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-      "eventName": "Ecuador vs Panama",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/05 06:30:00 +0000",
-      "endTime": "2026/10/05 08:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50107,
     "title": "Indonesia vs Thailand",
     "image": "o",
@@ -1476,44 +1417,26 @@
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/10/05 13:00:00 +0000",
-      "endTime": "2026/10/05 15:00:00 +0000"
+      "endTime": "2026/10/05 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FHD SERVER",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "FHD SERVER",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Malaysia vs Vietnam",
-    "image": "o",
-    "cat": "FIFA ASEAN Cup",
-    "eventInfo": {
-      "teamA": "Malaysia",
-      "teamB": "Vietnam",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "eventName": "Malaysia vs Vietnam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/10/05 09:00:00 +0000",
-      "endTime": "2026/10/05 11:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]

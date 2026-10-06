@@ -1,6 +1,27 @@
 [
   {
     "api": "",
+    "link": "https://chatgpt.hereisman.net/playlist/57660/load-playlist?|Referer=https://gooz.aapmains.net",
+    "logo": "",
+    "title": "DUDE Tv NHL HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://binaryburrito.s3.us-east-1.amazonaws.com/stars.m3u8",
+    "logo": "",
+    "title": "NHL LIVE HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://netanjahu.hls.st/t/660f014c6392d5d6913289bd967bc7e3/index.m3u8?|Referer=https://iplayer.is/",
+    "logo": "",
+    "title": "NHL HD TV",
+    "type": "0"
+  },
+  {
+    "api": "",
     "link": "https://edgestream3.pro/hls/rtzaeyvhb53.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
     "logo": "",
     "title": "DUDE Tv Live",

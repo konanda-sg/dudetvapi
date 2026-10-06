@@ -2,50 +2,13 @@
   {
     "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
     "title": "CANAL5 FHD",
     "type": "1"
   },
   {
     "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
     "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-    "logo": "",
     "title": "NBC UNIVERSO [USA]",
     "type": "1"
-  },
-  {
-    "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-    "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-    "logo": "",
-    "title": "ESPN AR FHD",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://chatgpt.hereisman.net/playlist/57553/load-playlist?|Referer=https://gooz.aapmains.net",
-    "logo": "",
-    "title": "Tru TV HD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://live.vivo155.com/live/hd-en-1-4650101.m3u8?txSecret=09b15db7840efab233329a6a37b50926&txTime=6AC1C85D|Referer=https://player.online909.com/",
-    "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://www.rtmpcdn.com/live/b97b626a-b2ec-4870-bae2-76507fc266b8.m3u8",
-    "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.41/hls/tllllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "ESPN BR SD",
-    "type": "0"
   }
 ]
